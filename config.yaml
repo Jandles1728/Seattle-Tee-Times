@@ -1,0 +1,48 @@
+# Weekend tee time + weather watcher — edit this file to change what gets checked.
+
+search:
+  players: 4              # only slots that fit a foursome
+  earliest: "08:00"       # tee time window (local Pacific time)
+  latest: "14:00"
+  days: [Sat, Sun]        # which days to watch
+  weekends_ahead: 2       # this weekend + next weekend (most sheets open ~14 days out)
+  max_price: null         # per player; e.g. 90 to ignore anything pricier. null = no cap
+
+alerts:
+  # Only text about courses on this list. Remove a name to stop alerts for it;
+  # everything still shows up in REPORT.md. Empty list = alert on all courses.
+  courses: []
+  quiet_hours: ["22:00", "06:00"]   # no texts overnight; held matches go out at 6 AM
+  max_lines_per_text: 12
+
+weather:
+  # Forecast point used for the weekend outlook (Seattle). NWS gives ~7 days.
+  lat: 47.6062
+  lon: -122.3321
+
+golfnow:
+  enabled: true
+  lat: 47.6062
+  lon: -122.3321
+  radius_miles: 50        # covers King, Snohomish, Pierce, Kitsap
+  exclude: []             # GolfNow course names to ignore
+
+chronogolf:
+  # Club slug from chronogolf.com/club/<slug>
+  - {name: "Golf Club at Newcastle", slug: golf-club-at-newcastle}
+  - {name: "Gold Mountain", slug: gold-mountain-golf-club}
+  - {name: "Meadow Park", slug: meadow-park-golf-club}
+  - {name: "Trophy Lake", slug: trophy-lake-golf-casting-club}
+  - {name: "Washington National", slug: washington-national-golf-club}
+  - {name: "Redmond Ridge", slug: trilogy-at-redmond-ridge}
+  - {name: "Harbour Pointe", slug: harbour-pointe-golf-club}
+  - {name: "Cedar Irons", slug: north-shore-golf-club-washington}
+  - {name: "Enumclaw", slug: enumclaw-golf-course}
+  - {name: "Echo Falls", slug: echo-falls-country-club}
+  - {name: "McCormick Woods", slug: mccormick-woods-golf-course}
+  - {name: "Tolt", slug: tolt-golf-club}
+  - {name: "Snohomish Golf Course", slug: snohomish-public-golf-course}
+
+foreup:
+  - {name: "The Home Course", course_id: 21784, schedule_id: 8863, booking_class: 12080,
+     book_url: "https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes"}
