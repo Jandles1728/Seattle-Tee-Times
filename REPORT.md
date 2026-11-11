@@ -1,5 +1,5 @@
 # Weekend tee times — foursome, 8:00a–2:00p
-_Updated Wed Nov 11, 1:21 PM Pacific. Prices are per player as each site shows them._
+_Updated Wed Nov 11, 1:24 PM Pacific. Prices are per player as each site shows them._
 
 ## Saturday, November 14
 **Weather (8a–2p):** 50–56°F, 35% rain, wind to 9 mph, Chance Light Rain
@@ -10,7 +10,6 @@ _Updated Wed Nov 11, 1:21 PM Pacific. Prices are per player as each site shows t
 | Cedarcrest Golf Course | 8:45a, 8:52a, 9:07a, 9:15a, 9:22a, 9:30a, 9:45a, 10:15a … +22 | $30 | [golfnow](https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search) |
 | Eagles Pride Golf Course | 8:39a, 8:57a, 9:24a, 9:42a, 9:51a, 10:00a, 10:09a, 10:18a … +22 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search) |
 | Whispering Firs Golf Course | 11:12a, 11:21a, 11:30a, 11:39a, 11:48a, 11:57a, 12:06p, 12:15p … +11 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search) |
-| Twin Rivers Golf Course | 9:03a, 9:21a, 9:48a, 10:06a, 10:42a, 11:00a, 11:27a, 11:45a … +6 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search) |
 | Foster Golf Links (Airport) | 11:46a, 11:54a, 12:02p, 12:10p, 12:18p, 12:26p, 12:34p, 12:42p … +9 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search) |
 | Tumwater Valley Golf Club | 1:40p, 1:50p, 2:00p | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search) |
 | Riverbend Golf Complex | 10:30a, 10:39a, 12:54p, 1:03p, 1:12p, 1:21p, 1:30p, 1:39p … +2 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search) |

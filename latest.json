@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:21:39.144873-08:00",
+ "updated": "2026-11-11T13:24:05.953229-08:00",
  "errors": [
   "Chronogolf Golf Club at Newcastle 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=1ef87560-31ac-4bc6-b3f7-81138b13ea97%2C4dfdb5df-13ed-40d9-98a5-17e73800eadd&holes=18&page=1",
   "Chronogolf Golf Club at Newcastle 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=1ef87560-31ac-4bc6-b3f7-81138b13ea97%2C4dfdb5df-13ed-40d9-98a5-17e73800eadd&holes=18&page=1",
@@ -526,16 +526,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "09:03",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-14",
    "time": "09:06",
@@ -724,16 +714,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "09:21",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
   },
   {
    "course": "Cedarcrest Golf Course",
@@ -986,16 +966,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "09:48",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-14",
    "time": "09:50",
@@ -1204,16 +1174,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "10:06",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
   },
   {
    "course": "Legion Memorial Golf Course",
@@ -1686,16 +1646,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "10:42",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-14",
    "time": "10:45",
@@ -1953,16 +1903,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "11:00",
-   "price": 45.98,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
    "note": ""
   },
   {
@@ -2296,16 +2236,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "11:27",
-   "price": 45.98,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-14",
    "time": "11:30",
@@ -2613,16 +2543,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "11:45",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
    "note": ""
   },
   {
@@ -3066,16 +2986,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "12:12",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Camaloch Golf Course",
    "day": "2026-11-14",
    "time": "12:15",
@@ -3453,16 +3363,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "12:30",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
    "note": ""
   },
   {
@@ -3946,16 +3846,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "12:57",
-   "price": 52.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Foster Golf Links (Airport)",
    "day": "2026-11-14",
    "time": "12:58",
@@ -4134,16 +4024,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "13:06",
-   "price": 34.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
   },
   {
    "course": "Legion Memorial Golf Course",
@@ -4333,16 +4213,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "13:15",
-   "price": 34.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
    "note": ""
   },
   {
@@ -4924,16 +4794,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Twin Rivers Golf Course",
-   "day": "2026-11-14",
-   "time": "13:42",
-   "price": 34.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
   },
   {
    "course": "Cedarcrest Golf Course",
