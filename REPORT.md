@@ -1,5 +1,5 @@
 # Weekend tee times — foursome, 8:00a–2:00p
-_Updated Wed Nov 11, 1:25 PM Pacific. Prices are per player as each site shows them._
+_Updated Wed Nov 11, 1:28 PM Pacific. Prices are per player as each site shows them._
 
 ## Saturday, November 14
 **Weather (8a–2p):** 50–56°F, 35% rain, wind to 9 mph, Chance Light Rain
@@ -10,13 +10,14 @@ _Updated Wed Nov 11, 1:25 PM Pacific. Prices are per player as each site shows t
 | Cedarcrest Golf Course | 8:45a, 8:52a, 9:07a, 9:15a, 9:22a, 9:30a, 9:45a, 10:15a … +22 | $30 | [golfnow](https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search) |
 | Eagles Pride Golf Course | 8:39a, 8:57a, 9:24a, 9:42a, 9:51a, 10:00a, 10:09a, 10:18a … +22 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search) |
 | Whispering Firs Golf Course | 11:12a, 11:21a, 11:30a, 11:39a, 11:48a, 11:57a, 12:06p, 12:15p … +11 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search) |
+| Twin Rivers Golf Course | 9:03a, 9:21a, 9:48a, 10:06a, 10:42a, 11:00a, 11:27a, 11:45a … +6 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search) |
 | Foster Golf Links (Airport) | 11:46a, 11:54a, 12:02p, 12:10p, 12:18p, 12:26p, 12:34p, 12:42p … +9 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search) |
 | Tumwater Valley Golf Club | 1:40p, 1:50p, 2:00p | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search) |
 | Riverbend Golf Complex | 10:30a, 10:39a, 12:54p, 1:03p, 1:12p, 1:21p, 1:30p, 1:39p … +2 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search) |
 | Camas Prairie Golf Course | 8:00a, 8:15a | $38 | [golfnow](https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search) |
 | Camaloch Golf Course | 12:15p, 12:30p | $38 | [golfnow](https://www.golfnow.com/tee-times/facility/9352-camaloch-golf-course/search) |
 | Discovery Bay Golf Club | 8:00a, 8:10a, 8:20a, 8:30a, 8:40a, 8:50a, 9:00a, 9:10a … +29 | $39 | [golfnow](https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search) |
-| The Home Course | 1:00p, 1:36p, 1:45p, 1:54p | $39 | [foreup](https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes) |
+| The Home Course | 1:36p, 1:45p, 1:54p | $39 | [foreup](https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes) |
 | Legion Memorial Golf Course | 8:00a, 8:07a, 8:15a, 8:22a, 8:30a, 8:37a, 8:45a, 8:52a … +41 | $40 | [golfnow](https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search) |
 | Walter E. Hall Golf Course | 12:22p, 12:30p, 12:37p, 12:45p, 12:52p, 1:07p, 1:15p, 1:22p … +4 | $41 | [golfnow](https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search) |
 | The Classic Golf Club | 9:45a, 9:54a, 10:39a, 10:57a, 11:33a, 11:42a, 11:51a, 12:18p … +11 | $42 | [golfnow](https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search) |
@@ -39,7 +40,7 @@ _Updated Wed Nov 11, 1:25 PM Pacific. Prices are per player as each site shows t
 | Course | Open times | From | Book |
 |---|---|---|---|
 | Village Greens Golf Course | 10:00a, 10:30a | $24 | [golfnow](https://www.golfnow.com/tee-times/facility/9395-village-greens-golf-course/search) |
-| Lake Spanaway Golf Course | 8:50a, 9:20a, 9:30a, 9:40a, 10:30a, 10:40a, 11:20a, 11:40a … +10 | $29 | [golfnow](https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search) |
+| Lake Spanaway Golf Course | 8:50a, 9:20a, 9:30a, 9:40a, 10:40a, 11:20a, 11:40a, 11:50a … +9 | $29 | [golfnow](https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search) |
 | Cedarcrest Golf Course | 8:22a, 8:30a, 8:37a, 8:45a, 9:00a, 9:07a, 9:15a, 9:22a … +28 | $30 | [golfnow](https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search) |
 | Camas Prairie Golf Course | 8:00a, 8:15a, 8:30a, 8:45a, 9:00a, 9:15a, 9:30a, 9:45a … +17 | $32 | [golfnow](https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search) |
 | Eagles Pride Golf Course | 8:03a, 8:12a, 8:21a, 8:30a, 8:39a, 8:48a, 8:57a, 9:06a … +32 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search) |
