@@ -1,93 +1,85 @@
-"""Chronogolf (Lightspeed Golf) marketplace: the club page carries the course
-UUIDs in its __NEXT_DATA__ blob; the v2 teetimes feed takes those UUIDs."""
+"""Chronogolf (Lightspeed Golf) marketplace.
+
+Uses the club tee time feed the booking widget calls:
+  /marketplace/clubs/{club_id}/teetimes?date=…&course_id=…&nb_holes=18&affiliation_type_ids[]=… (one per player)
+It returns real 18-hole prices for the group size and flags slots that are full
+or restricted. The newer v2 feed answers 403 from cloud servers, so it isn't used.
+Club and course ids come from the club page's __NEXT_DATA__ blob."""
 from __future__ import annotations
 
 import json
 import logging
 import re
-from datetime import date, datetime
-from zoneinfo import ZoneInfo
+from datetime import date
 
 from .http import session, polite_pause
 from .models import TeeTime, hhmm_to_minutes
 
 log = logging.getLogger(__name__)
 BASE = "https://www.chronogolf.com"
-PACIFIC = ZoneInfo("America/Los_Angeles")
 _NEXT = re.compile(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', re.S)
 
-_uuid_cache: dict[str, list[dict]] = {}
-_warmed: set[str] = set()
+_club_cache: dict[str, dict] = {}
 
 
-def _warm_session(slug: str) -> None:
-    """The booking page opens a marketplace session (sets cookies) before it asks
-    for tee times; the teetimes feed answers 403 without it."""
-    if slug in _warmed:
-        return
-    session.get(
-        f"{BASE}/marketplace/v2/session", timeout=30,
-        headers={"Referer": f"{BASE}/club/{slug}", "X-Requested-With": "XMLHttpRequest"},
-    )
-    _warmed.add(slug)
-
-
-def course_uuids(slug: str) -> list[dict]:
-    if slug not in _uuid_cache:
-        html = session.get(f"{BASE}/club/{slug}", timeout=30, headers={"Accept": "text/html"}).text
-        m = _NEXT.search(html)
-        if not m:
-            raise RuntimeError("club page had no __NEXT_DATA__")
-        club = json.loads(m.group(1))["props"]["pageProps"]["club"]
-        _uuid_cache[slug] = [
-            {"uuid": c["uuid"], "name": c.get("name", "")}
-            for c in club.get("courses", [])
-            if c.get("uuid") and "simulator" not in c.get("name", "").lower()
-        ]
-    return _uuid_cache[slug]
+def club_info(slug: str) -> dict:
+    """{'id': 14713, 'courses': [{'id': 16894, 'name': 'China Creek'}, …], 'affiliation': 59674}"""
+    if slug in _club_cache:
+        return _club_cache[slug]
+    html = session.get(f"{BASE}/club/{slug}", timeout=30, headers={"Accept": "text/html"}).text
+    m = _NEXT.search(html)
+    if not m:
+        raise RuntimeError("club page had no __NEXT_DATA__")
+    club = json.loads(m.group(1))["props"]["pageProps"]["club"]
+    club_id = club["id"]
+    courses = [
+        {"id": c["id"], "name": c.get("name", "")}
+        for c in club.get("courses", [])
+        if c.get("id") and "simulator" not in c.get("name", "").lower()
+        and (c.get("holes", 18) >= 18 or 18 in (c.get("bookableHoles") or []))
+    ]
+    affiliation = club.get("defaultAffiliationTypeId") \
+        or (club.get("settings") or {}).get("default_affiliation_type_id")
+    if not affiliation:
+        # fall back to the organization's affiliation list: pick the public rate
+        types = session.get(f"{BASE}/marketplace/organizations/{club_id}/affiliation_types", timeout=30).json()
+        public = [t for t in types if t.get("name", "").strip().lower() == "public"] or \
+                 [t for t in types if "public" in t.get("name", "").lower()]
+        if not public:
+            raise RuntimeError("couldn't find the public rate for this club")
+        affiliation = public[0]["id"]
+    info = {"id": club_id, "courses": courses, "affiliation": int(affiliation)}
+    _club_cache[slug] = info
+    return info
 
 
 def club_times(club: dict, day: date, search: dict) -> list[TeeTime]:
-    courses = course_uuids(club["slug"])
-    if not courses:
-        return []
-    ids = ",".join(c["uuid"] for c in courses)
+    info = club_info(club["slug"])
+    players = search["players"]
     lo, hi = hhmm_to_minutes(search["earliest"]), hhmm_to_minutes(search["latest"])
-    _warm_session(club["slug"])
     out = []
-    for page in range(1, 11):
-        r = session.get(
-            f"{BASE}/marketplace/v2/teetimes",
-            params={"start_date": day.isoformat(), "course_ids": ids, "holes": 18, "page": page},
-            headers={"Referer": f"{BASE}/club/{club['slug']}?date={day.isoformat()}&step=teetimes",
-                     "X-Requested-With": "XMLHttpRequest"},
-            timeout=30,
-        )
+    for course in info["courses"]:
+        params = [("date", day.isoformat()), ("course_id", course["id"]), ("nb_holes", 18)]
+        params += [("affiliation_type_ids[]", info["affiliation"])] * players
+        r = session.get(f"{BASE}/marketplace/clubs/{info['id']}/teetimes", params=params, timeout=30,
+                        headers={"Referer": f"{BASE}/club/{club['slug']}"})
         r.raise_for_status()
-        batch = r.json().get("teetimes") or []
-        if not batch:
-            break
-        for t in batch:
-            if (t.get("max_player_size") or 0) < search["players"] or t.get("frozen"):
+        for t in r.json() or []:
+            if t.get("out_of_capacity") or t.get("restrictions") or t.get("frozen"):
                 continue
-            local = datetime.fromisoformat(t["starts_at"].replace("Z", "+00:00")).astimezone(PACIFIC)
-            mins = local.hour * 60 + local.minute
-            if not lo <= mins <= hi:
+            hhmm = t["start_time"][:5]
+            if not lo <= hhmm_to_minutes(hhmm) <= hi:
                 continue
-            p = t.get("default_price") or {}
-            course_name = t.get("course", {}).get("name", "")
-            name = club["name"] if len(courses) == 1 else f"{club['name']} ({course_name.title()})"
-            holes = p.get("bookable_holes")
-            note = []
-            if holes == 9:
-                note.append("9-hole rate shown; 18 costs more")
-            if p.get("half_cart"):
-                note.append(f"+${p['half_cart']:g} cart")
+            fees = t.get("green_fees") or []
+            if len(fees) < players:
+                continue
+            price = fees[0].get("green_fee")
+            cart = fees[0].get("half_cart")
+            name = club["name"] if len(info["courses"]) == 1 else f"{club['name']} ({course['name'].title()})"
             out.append(TeeTime(
-                course=name, day=day, time=f"{local.hour:02d}:{local.minute:02d}",
-                price=p.get("green_fee"), holes=holes, source="chronogolf",
+                course=name, day=day, time=hhmm, price=price, holes=18, source="chronogolf",
                 book_url=f"{BASE}/club/{club['slug']}?date={day.isoformat()}&nb_holes=18",
-                note="; ".join(note),
+                note=f"+${cart:g} cart" if cart else "",
             ))
         polite_pause()
     return out

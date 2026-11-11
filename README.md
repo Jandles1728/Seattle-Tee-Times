@@ -40,7 +40,7 @@ Without the secrets it still runs and updates REPORT.md; it just doesn't text.
 
 ## Notes
 
-- **Prices** are per player as each site shows them. GolfNow prices include its booking fee. Some Chronogolf courses only publish a 9-hole rate in their feed; those are marked "9h" and the 18-hole price will be higher.
+- **Prices** are per player as each site shows them. GolfNow prices include its booking fee. Chronogolf prices are the 18-hole public rate for four players (cart extra).
 - **Timing:** GitHub can delay scheduled runs by a few minutes at busy times. GitHub also pauses schedules after 60 days without repo activity; this job's own commits count as activity.
 - **Failed sources:** if a source starts failing (site change or blocking), the failure is listed at the bottom of REPORT.md. If *every* source fails, the run is marked red in Actions.
 - **Manual check:** `pip install -r requirements.txt && python -m teewatch.main --dry-run` prints the text instead of sending it.

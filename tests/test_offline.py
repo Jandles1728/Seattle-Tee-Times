@@ -34,16 +34,16 @@ def golfnow_times(times):
 
 
 CHRONO_HTML = ('<html><script id="__NEXT_DATA__" type="application/json">'
-               + json.dumps({"props": {"pageProps": {"club": {"courses": [
-                   {"uuid": "u1", "name": "China Creek"}, {"uuid": "u2", "name": "Coal Creek"},
-                   {"uuid": "u3", "name": "SIMULATOR"}]}}}})
+               + json.dumps({"props": {"pageProps": {"club": {"id": 14713, "defaultAffiliationTypeId": 59674,
+                   "courses": [
+                   {"id": 16894, "name": "China Creek", "holes": 18}, {"id": 16895, "name": "Coal Creek", "holes": 18},
+                   {"id": 22425, "name": "SIMULATOR", "holes": 1}]}}}})
                + "</script></html>")
 
 
-def chrono_tt(start_utc, course, maxp=4, fee=123.0, holes=18):
-    return {"starts_at": start_utc, "max_player_size": maxp, "frozen": False,
-            "course": {"name": course},
-            "default_price": {"green_fee": fee, "half_cart": 20.0, "bookable_holes": holes}}
+def chrono_tt(hhmm, fee=123.0, full=False, players=4):
+    return {"start_time": hhmm, "out_of_capacity": full, "restrictions": [], "frozen": False,
+            "green_fees": [{"green_fee": fee, "half_cart": 20}] * players}
 
 
 FOREUP = [
@@ -76,9 +76,14 @@ def fake_get(url, params=None, **kw):
         return Resp(None, text="", status=204)
     if "chronogolf.com/club/" in url:
         return Resp(text=CHRONO_HTML)
-    if "v2/teetimes" in url:
-        if params["page"] > 1 or params["start_date"] != "2026-11-14":
-            return Resp({"teetimes": []})
+    if "/marketplace/clubs/14713/teetimes" in url:
+        p = dict(params[:3])
+        assert [v for k, v in params if k == "affiliation_type_ids[]"] == [59674] * 4
+        if p["date"] != "2026-11-14":
+            return Resp([])
+        if p["course_id"] == 16894:  # China Creek
+            return Resp([chrono_tt("07:36"), chrono_tt("08:03", full=True), chrono_tt("12:15", fee=86)])
+        return Resp([chrono_tt("08:00", fee=168)])  # Coal Creek
         return Resp({"teetimes": [
             chrono_tt("2026-11-14T15:36:00Z", "China Creek"),             # 7:36 -> outside window
             chrono_tt("2026-11-14T16:00:00Z", "Coal Creek", fee=168),     # 8:00 keep
