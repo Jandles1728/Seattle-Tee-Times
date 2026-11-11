@@ -17,6 +17,19 @@ PACIFIC = ZoneInfo("America/Los_Angeles")
 _NEXT = re.compile(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', re.S)
 
 _uuid_cache: dict[str, list[dict]] = {}
+_warmed: set[str] = set()
+
+
+def _warm_session(slug: str) -> None:
+    """The booking page opens a marketplace session (sets cookies) before it asks
+    for tee times; the teetimes feed answers 403 without it."""
+    if slug in _warmed:
+        return
+    session.get(
+        f"{BASE}/marketplace/v2/session", timeout=30,
+        headers={"Referer": f"{BASE}/club/{slug}", "X-Requested-With": "XMLHttpRequest"},
+    )
+    _warmed.add(slug)
 
 
 def course_uuids(slug: str) -> list[dict]:
@@ -40,11 +53,14 @@ def club_times(club: dict, day: date, search: dict) -> list[TeeTime]:
         return []
     ids = ",".join(c["uuid"] for c in courses)
     lo, hi = hhmm_to_minutes(search["earliest"]), hhmm_to_minutes(search["latest"])
+    _warm_session(club["slug"])
     out = []
     for page in range(1, 11):
         r = session.get(
             f"{BASE}/marketplace/v2/teetimes",
             params={"start_date": day.isoformat(), "course_ids": ids, "holes": 18, "page": page},
+            headers={"Referer": f"{BASE}/club/{club['slug']}?date={day.isoformat()}&step=teetimes",
+                     "X-Requested-With": "XMLHttpRequest"},
             timeout=30,
         )
         r.raise_for_status()
@@ -84,6 +100,7 @@ def fetch(clubs: list[dict], days: list[date], search: dict) -> tuple[list[TeeTi
             try:
                 times += club_times(club, day, search)
             except Exception as e:  # noqa: BLE001
-                errors.append(f"Chronogolf {club['name']} {day}: {e}")
+                errors.append(f"Chronogolf {club['name']}: {str(e).split(' for url')[0]}")
+                break  # same failure would repeat for every date
             polite_pause()
     return times, errors

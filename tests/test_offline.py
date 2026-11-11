@@ -72,6 +72,8 @@ class Resp:
 
 
 def fake_get(url, params=None, **kw):
+    if "v2/session" in url:
+        return Resp(None, text="", status=204)
     if "chronogolf.com/club/" in url:
         return Resp(text=CHRONO_HTML)
     if "v2/teetimes" in url:
