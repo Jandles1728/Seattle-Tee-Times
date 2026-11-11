@@ -1,5 +1,5 @@
 # Weekend tee times — foursome, 8:00a–2:00p
-_Updated Wed Nov 11, 1:24 PM Pacific. Prices are per player as each site shows them._
+_Updated Wed Nov 11, 1:25 PM Pacific. Prices are per player as each site shows them._
 
 ## Saturday, November 14
 **Weather (8a–2p):** 50–56°F, 35% rain, wind to 9 mph, Chance Light Rain
@@ -113,57 +113,18 @@ _Updated Wed Nov 11, 1:24 PM Pacific. Prices are per player as each site shows t
 
 <details><summary>Sources that failed this run</summary>
 
-- Chronogolf Golf Club at Newcastle 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=1ef87560-31ac-4bc6-b3f7-81138b13ea97%2C4dfdb5df-13ed-40d9-98a5-17e73800eadd&holes=18&page=1
-- Chronogolf Golf Club at Newcastle 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=1ef87560-31ac-4bc6-b3f7-81138b13ea97%2C4dfdb5df-13ed-40d9-98a5-17e73800eadd&holes=18&page=1
-- Chronogolf Golf Club at Newcastle 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=1ef87560-31ac-4bc6-b3f7-81138b13ea97%2C4dfdb5df-13ed-40d9-98a5-17e73800eadd&holes=18&page=1
-- Chronogolf Golf Club at Newcastle 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=1ef87560-31ac-4bc6-b3f7-81138b13ea97%2C4dfdb5df-13ed-40d9-98a5-17e73800eadd&holes=18&page=1
-- Chronogolf Gold Mountain 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=c02f50c3-6755-48ea-aa43-d03e6843a444%2Cd2bd5d8a-7c8e-4e46-a4b1-62708445a1e4&holes=18&page=1
-- Chronogolf Gold Mountain 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=c02f50c3-6755-48ea-aa43-d03e6843a444%2Cd2bd5d8a-7c8e-4e46-a4b1-62708445a1e4&holes=18&page=1
-- Chronogolf Gold Mountain 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=c02f50c3-6755-48ea-aa43-d03e6843a444%2Cd2bd5d8a-7c8e-4e46-a4b1-62708445a1e4&holes=18&page=1
-- Chronogolf Gold Mountain 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=c02f50c3-6755-48ea-aa43-d03e6843a444%2Cd2bd5d8a-7c8e-4e46-a4b1-62708445a1e4&holes=18&page=1
-- Chronogolf Meadow Park 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=011016d6-90f2-44f4-a31c-fb935d39e354%2C184e8aad-a1aa-4104-a8f5-ab8fd6a6a308%2C1d95bbd2-aa26-47cb-bc42-a59d6e39fe2f&holes=18&page=1
-- Chronogolf Meadow Park 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=011016d6-90f2-44f4-a31c-fb935d39e354%2C184e8aad-a1aa-4104-a8f5-ab8fd6a6a308%2C1d95bbd2-aa26-47cb-bc42-a59d6e39fe2f&holes=18&page=1
-- Chronogolf Meadow Park 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=011016d6-90f2-44f4-a31c-fb935d39e354%2C184e8aad-a1aa-4104-a8f5-ab8fd6a6a308%2C1d95bbd2-aa26-47cb-bc42-a59d6e39fe2f&holes=18&page=1
-- Chronogolf Meadow Park 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=011016d6-90f2-44f4-a31c-fb935d39e354%2C184e8aad-a1aa-4104-a8f5-ab8fd6a6a308%2C1d95bbd2-aa26-47cb-bc42-a59d6e39fe2f&holes=18&page=1
-- Chronogolf Trophy Lake 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=26c8fdd0-c6b2-4653-b7f8-265fb2c22be4&holes=18&page=1
-- Chronogolf Trophy Lake 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=26c8fdd0-c6b2-4653-b7f8-265fb2c22be4&holes=18&page=1
-- Chronogolf Trophy Lake 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=26c8fdd0-c6b2-4653-b7f8-265fb2c22be4&holes=18&page=1
-- Chronogolf Trophy Lake 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=26c8fdd0-c6b2-4653-b7f8-265fb2c22be4&holes=18&page=1
-- Chronogolf Washington National 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=456e8551-22dd-4753-abb9-7b345b141f72&holes=18&page=1
-- Chronogolf Washington National 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=456e8551-22dd-4753-abb9-7b345b141f72&holes=18&page=1
-- Chronogolf Washington National 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=456e8551-22dd-4753-abb9-7b345b141f72&holes=18&page=1
-- Chronogolf Washington National 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=456e8551-22dd-4753-abb9-7b345b141f72&holes=18&page=1
-- Chronogolf Redmond Ridge 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=6f7b7442-f0d9-422e-9a8b-a73cd5ff473a&holes=18&page=1
-- Chronogolf Redmond Ridge 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=6f7b7442-f0d9-422e-9a8b-a73cd5ff473a&holes=18&page=1
-- Chronogolf Redmond Ridge 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=6f7b7442-f0d9-422e-9a8b-a73cd5ff473a&holes=18&page=1
-- Chronogolf Redmond Ridge 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=6f7b7442-f0d9-422e-9a8b-a73cd5ff473a&holes=18&page=1
-- Chronogolf Harbour Pointe 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=0bae7da1-b55e-4203-ac78-92b750f9c2d0&holes=18&page=1
-- Chronogolf Harbour Pointe 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=0bae7da1-b55e-4203-ac78-92b750f9c2d0&holes=18&page=1
-- Chronogolf Harbour Pointe 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=0bae7da1-b55e-4203-ac78-92b750f9c2d0&holes=18&page=1
-- Chronogolf Harbour Pointe 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=0bae7da1-b55e-4203-ac78-92b750f9c2d0&holes=18&page=1
-- Chronogolf Cedar Irons 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=d463a783-02d6-4900-9c37-41341f0402ca&holes=18&page=1
-- Chronogolf Cedar Irons 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=d463a783-02d6-4900-9c37-41341f0402ca&holes=18&page=1
-- Chronogolf Cedar Irons 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=d463a783-02d6-4900-9c37-41341f0402ca&holes=18&page=1
-- Chronogolf Cedar Irons 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=d463a783-02d6-4900-9c37-41341f0402ca&holes=18&page=1
-- Chronogolf Enumclaw 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=3c034ec2-bb30-41e2-b136-b2fcc2110fab&holes=18&page=1
-- Chronogolf Enumclaw 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=3c034ec2-bb30-41e2-b136-b2fcc2110fab&holes=18&page=1
-- Chronogolf Enumclaw 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=3c034ec2-bb30-41e2-b136-b2fcc2110fab&holes=18&page=1
-- Chronogolf Enumclaw 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=3c034ec2-bb30-41e2-b136-b2fcc2110fab&holes=18&page=1
-- Chronogolf Echo Falls 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=03220fe2-7174-4d38-8565-ab5c88db0b8b&holes=18&page=1
-- Chronogolf Echo Falls 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=03220fe2-7174-4d38-8565-ab5c88db0b8b&holes=18&page=1
-- Chronogolf Echo Falls 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=03220fe2-7174-4d38-8565-ab5c88db0b8b&holes=18&page=1
-- Chronogolf Echo Falls 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=03220fe2-7174-4d38-8565-ab5c88db0b8b&holes=18&page=1
-- Chronogolf McCormick Woods 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=1e49da87-eba8-4570-8819-ede052a52bd4&holes=18&page=1
-- Chronogolf McCormick Woods 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=1e49da87-eba8-4570-8819-ede052a52bd4&holes=18&page=1
-- Chronogolf McCormick Woods 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=1e49da87-eba8-4570-8819-ede052a52bd4&holes=18&page=1
-- Chronogolf McCormick Woods 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=1e49da87-eba8-4570-8819-ede052a52bd4&holes=18&page=1
-- Chronogolf Tolt 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=17036cf1-23af-47ea-9950-c5ab5a931f94&holes=18&page=1
-- Chronogolf Tolt 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=17036cf1-23af-47ea-9950-c5ab5a931f94&holes=18&page=1
-- Chronogolf Tolt 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=17036cf1-23af-47ea-9950-c5ab5a931f94&holes=18&page=1
-- Chronogolf Tolt 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=17036cf1-23af-47ea-9950-c5ab5a931f94&holes=18&page=1
-- Chronogolf Snohomish Golf Course 2026-11-14: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-14&course_ids=2cf232f4-0f36-4a4a-b9d3-8d9a63e967ce&holes=18&page=1
-- Chronogolf Snohomish Golf Course 2026-11-15: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-15&course_ids=2cf232f4-0f36-4a4a-b9d3-8d9a63e967ce&holes=18&page=1
-- Chronogolf Snohomish Golf Course 2026-11-21: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-21&course_ids=2cf232f4-0f36-4a4a-b9d3-8d9a63e967ce&holes=18&page=1
-- Chronogolf Snohomish Golf Course 2026-11-22: 403 Client Error: Forbidden for url: https://www.chronogolf.com/marketplace/v2/teetimes?start_date=2026-11-22&course_ids=2cf232f4-0f36-4a4a-b9d3-8d9a63e967ce&holes=18&page=1
+- Chronogolf Golf Club at Newcastle: 403 Client Error: Forbidden
+- Chronogolf Gold Mountain: 403 Client Error: Forbidden
+- Chronogolf Meadow Park: 403 Client Error: Forbidden
+- Chronogolf Trophy Lake: 403 Client Error: Forbidden
+- Chronogolf Washington National: 403 Client Error: Forbidden
+- Chronogolf Redmond Ridge: 403 Client Error: Forbidden
+- Chronogolf Harbour Pointe: 403 Client Error: Forbidden
+- Chronogolf Cedar Irons: 403 Client Error: Forbidden
+- Chronogolf Enumclaw: 403 Client Error: Forbidden
+- Chronogolf Echo Falls: 403 Client Error: Forbidden
+- Chronogolf McCormick Woods: 403 Client Error: Forbidden
+- Chronogolf Tolt: 403 Client Error: Forbidden
+- Chronogolf Snohomish Golf Course: 403 Client Error: Forbidden
 
 </details>
