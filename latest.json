@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:28:22.603262-08:00",
+ "updated": "2026-11-11T18:29:03.612799-08:00",
  "errors": [
   "Chronogolf Golf Club at Newcastle: 403 Client Error: Forbidden",
   "Chronogolf Gold Mountain: 403 Client Error: Forbidden",
@@ -57,16 +57,6 @@
    "note": ""
   },
   {
-   "course": "Tolt Golf Club",
-   "day": "2026-11-14",
-   "time": "08:00",
-   "price": 67.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Legion Memorial Golf Course",
    "day": "2026-11-14",
    "time": "08:07",
@@ -94,26 +84,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Druids Glen Golf Club",
-   "day": "2026-11-14",
-   "time": "08:10",
-   "price": 86.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Tolt Golf Club",
-   "day": "2026-11-14",
-   "time": "08:10",
-   "price": 67.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
    "note": ""
   },
   {
@@ -164,16 +134,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Tolt Golf Club",
-   "day": "2026-11-14",
-   "time": "08:20",
-   "price": 67.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
    "note": ""
   },
   {
@@ -317,16 +277,6 @@
    "note": ""
   },
   {
-   "course": "White Horse Golf Club",
-   "day": "2026-11-14",
-   "time": "08:48",
-   "price": 62.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-14",
    "time": "08:50",
@@ -420,7 +370,7 @@
    "course": "White Horse Golf Club",
    "day": "2026-11-14",
    "time": "08:57",
-   "price": 66.49,
+   "price": 62.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -567,16 +517,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Sunland Golf Club",
-   "day": "2026-11-14",
-   "time": "09:10",
-   "price": 72.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/7062-sunland-golf-club/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Lakeland Village Golf Course",
    "day": "2026-11-14",
    "time": "09:12",
@@ -634,6 +574,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "The Classic Golf Club",
+   "day": "2026-11-14",
+   "time": "09:18",
+   "price": 43.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
    "note": ""
   },
   {
@@ -967,26 +917,6 @@
    "note": ""
   },
   {
-   "course": "Druids Glen Golf Club",
-   "day": "2026-11-14",
-   "time": "09:50",
-   "price": 86.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "High Cedars Golf Club",
-   "day": "2026-11-14",
-   "time": "09:50",
-   "price": 88.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Salish Cliffs Golf Club",
    "day": "2026-11-14",
    "time": "09:50",
@@ -1070,7 +1000,7 @@
    "course": "The Classic Golf Club",
    "day": "2026-11-14",
    "time": "09:54",
-   "price": 43.99,
+   "price": 47.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
@@ -1424,16 +1354,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "High Cedars Golf Club",
-   "day": "2026-11-14",
-   "time": "10:30",
-   "price": 88.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search",
    "note": ""
   },
   {
@@ -2924,16 +2844,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Allenmore Golf Course",
-   "day": "2026-11-14",
-   "time": "12:09",
-   "price": 50.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
    "note": ""
   },
   {
@@ -5297,16 +5207,6 @@
    "note": ""
   },
   {
-   "course": "Tumwater Valley Golf Club",
-   "day": "2026-11-14",
-   "time": "14:00",
-   "price": 38.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Camas Prairie Golf Course",
    "day": "2026-11-15",
    "time": "08:00",
@@ -5567,16 +5467,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-15",
-   "time": "08:22",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Lynnwood Golf Course",
    "day": "2026-11-15",
    "time": "08:22",
@@ -5584,16 +5474,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Allenmore Golf Course",
-   "day": "2026-11-15",
-   "time": "08:24",
-   "price": 50.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
    "note": ""
   },
   {
@@ -5987,16 +5867,6 @@
    "note": ""
   },
   {
-   "course": "Lake Spanaway Golf Course",
-   "day": "2026-11-15",
-   "time": "08:50",
-   "price": 59.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Allenmore Golf Course",
    "day": "2026-11-15",
    "time": "08:51",
@@ -6367,16 +6237,6 @@
    "note": ""
   },
   {
-   "course": "Auburn Golf Course",
-   "day": "2026-11-15",
-   "time": "09:20",
-   "price": 67.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-15",
    "time": "09:20",
@@ -6420,11 +6280,11 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "09:20",
-   "price": 52.99,
+   "price": 59.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
-   "note": ""
+   "note": "cart incl."
   },
   {
    "course": "Salish Cliffs Golf Club",
@@ -6540,7 +6400,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "09:30",
-   "price": 73.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -7117,16 +6977,6 @@
    "note": ""
   },
   {
-   "course": "Walter E. Hall Golf Course",
-   "day": "2026-11-15",
-   "time": "10:00",
-   "price": 40.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Foster Golf Links (Airport)",
    "day": "2026-11-15",
    "time": "10:02",
@@ -7174,16 +7024,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Walter E. Hall Golf Course",
-   "day": "2026-11-15",
-   "time": "10:07",
-   "price": 40.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
    "note": ""
   },
   {
@@ -9487,16 +9327,6 @@
    "note": ""
   },
   {
-   "course": "Legion Memorial Golf Course",
-   "day": "2026-11-15",
-   "time": "12:00",
-   "price": 44.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Riverbend Golf Complex",
    "day": "2026-11-15",
    "time": "12:00",
@@ -9604,16 +9434,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-15",
-   "time": "12:07",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
    "note": ""
   },
   {
@@ -10517,6 +10337,16 @@
    "note": ""
   },
   {
+   "course": "Legion Memorial Golf Course",
+   "day": "2026-11-15",
+   "time": "12:45",
+   "price": 44.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Lynnwood Golf Course",
    "day": "2026-11-15",
    "time": "12:45",
@@ -10970,11 +10800,11 @@
    "course": "Legion Memorial Golf Course",
    "day": "2026-11-15",
    "time": "13:07",
-   "price": 44.99,
+   "price": 46.49,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
-   "note": ""
+   "note": "cart incl."
   },
   {
    "course": "Lynnwood Golf Course",
@@ -12237,16 +12067,6 @@
    "note": ""
   },
   {
-   "course": "Tumwater Valley Golf Club",
-   "day": "2026-11-15",
-   "time": "14:00",
-   "price": 38.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Walter E. Hall Golf Course",
    "day": "2026-11-15",
    "time": "14:00",
@@ -12827,16 +12647,6 @@
    "note": ""
   },
   {
-   "course": "Salish Cliffs Golf Club",
-   "day": "2026-11-21",
-   "time": "09:20",
-   "price": 93.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-21",
    "time": "09:22",
@@ -12970,7 +12780,7 @@
    "course": "Salish Cliffs Golf Club",
    "day": "2026-11-21",
    "time": "09:40",
-   "price": 101.99,
+   "price": 93.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
@@ -15737,6 +15547,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "08:00",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "08:00",
@@ -15777,6 +15597,16 @@
    "note": ""
   },
   {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "08:10",
+   "price": 78.19,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "08:10",
@@ -15807,6 +15637,16 @@
    "note": ""
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "08:15",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-22",
    "time": "08:15",
@@ -15825,6 +15665,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
    "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "08:20",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -15874,6 +15724,26 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "08:30",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "08:30",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -15997,6 +15867,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "08:40",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "08:40",
@@ -16024,6 +15904,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "08:45",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -16137,6 +16027,16 @@
    "note": ""
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "09:00",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-22",
    "time": "09:00",
@@ -16247,6 +16147,16 @@
    "note": ""
   },
   {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "09:10",
+   "price": 78.19,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "09:10",
@@ -16284,6 +16194,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
+   "note": ""
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "09:15",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -16345,6 +16265,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
    "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "09:20",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -16444,6 +16374,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "09:30",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -16617,6 +16557,16 @@
    "note": ""
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "09:45",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-22",
    "time": "09:45",
@@ -16655,6 +16605,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
    "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "09:50",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -16734,6 +16694,26 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
+   "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "10:00",
+   "price": 78.19,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "10:00",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -16877,6 +16857,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "10:10",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "10:10",
@@ -16927,6 +16917,16 @@
    "note": ""
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "10:15",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-22",
    "time": "10:15",
@@ -16974,6 +16974,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
+   "note": "cart incl."
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "10:20",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
    "note": "cart incl."
   },
   {
@@ -17084,6 +17094,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "10:30",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -17217,6 +17237,16 @@
    "note": ""
   },
   {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "10:40",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "10:40",
@@ -17254,6 +17284,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
+   "note": ""
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "10:45",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -17315,6 +17355,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
    "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "10:50",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -17427,6 +17477,26 @@
    "note": ""
   },
   {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "11:00",
+   "price": 78.19,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "11:00",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "11:00",
@@ -17535,6 +17605,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
    "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "11:10",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -17607,6 +17687,16 @@
    "note": ""
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "11:15",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-22",
    "time": "11:15",
@@ -17635,6 +17725,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
    "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "11:20",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -17734,6 +17834,26 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "11:30",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "11:30",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -17897,6 +18017,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "11:40",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "11:40",
@@ -17934,6 +18064,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "11:45",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -17984,6 +18124,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
+   "note": "cart incl."
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "11:50",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
    "note": "cart incl."
   },
   {
@@ -18084,6 +18234,26 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "12:00",
+   "price": 78.19,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "12:00",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -18217,6 +18387,16 @@
    "note": ""
   },
   {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "12:10",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "12:10",
@@ -18255,6 +18435,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
    "note": "cart incl."
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "12:15",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
   },
   {
    "course": "Cedarcrest Golf Course",
@@ -18335,6 +18525,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
    "note": ""
+  },
+  {
+   "course": "Auburn Golf Course",
+   "day": "2026-11-22",
+   "time": "12:20",
+   "price": 85.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -18444,6 +18644,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
+   "note": ""
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "12:30",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -18657,6 +18867,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "12:45",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-22",
    "time": "12:45",
@@ -18814,6 +19034,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
+   "note": ""
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "13:00",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
   },
   {
@@ -19037,6 +19267,16 @@
    "note": ""
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "13:15",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-22",
    "time": "13:15",
@@ -19215,6 +19455,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
    "note": "cart incl."
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "13:30",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
   },
   {
    "course": "Cedarcrest Golf Course",
@@ -19407,6 +19657,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "13:45",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-22",
    "time": "13:45",
@@ -19585,6 +19845,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
    "note": "cart incl."
+  },
+  {
+   "course": "Camas Prairie Golf Course",
+   "day": "2026-11-22",
+   "time": "14:00",
+   "price": 40.79,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
+   "note": ""
   },
   {
    "course": "Cedarcrest Golf Course",
