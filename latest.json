@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:27:12.283265-08:00",
+ "updated": "2026-11-13T06:52:15.721900-08:00",
  "errors": [
   "Chronogolf Golf Club at Newcastle: 403 Client Error: Forbidden",
   "Chronogolf Gold Mountain: 403 Client Error: Forbidden",
@@ -187,6 +187,16 @@
    "note": ""
   },
   {
+   "course": "Cedarcrest Golf Course",
+   "day": "2026-11-14",
+   "time": "08:45",
+   "price": 54.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Lakeland Village Golf Course",
    "day": "2026-11-14",
    "time": "08:45",
@@ -210,7 +220,7 @@
    "course": "Walter E. Hall Golf Course",
    "day": "2026-11-14",
    "time": "08:45",
-   "price": 40.99,
+   "price": 46.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
@@ -247,26 +257,6 @@
    "note": ""
   },
   {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-14",
-   "time": "08:52",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Lakeland Village Golf Course",
-   "day": "2026-11-14",
-   "time": "08:54",
-   "price": 62.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-14",
    "time": "08:57",
@@ -275,16 +265,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
    "note": ""
-  },
-  {
-   "course": "White Horse Golf Club",
-   "day": "2026-11-14",
-   "time": "08:57",
-   "price": 57.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
-   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -887,16 +867,6 @@
    "note": ""
   },
   {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-14",
-   "time": "10:07",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Legion Memorial Golf Course",
    "day": "2026-11-14",
    "time": "10:07",
@@ -904,6 +874,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Walter E. Hall Golf Course",
+   "day": "2026-11-14",
+   "time": "10:07",
+   "price": 46.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
    "note": ""
   },
   {
@@ -984,6 +964,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Walter E. Hall Golf Course",
+   "day": "2026-11-14",
+   "time": "10:15",
+   "price": 40.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
    "note": ""
   },
   {
@@ -1194,16 +1184,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-14",
-   "time": "10:37",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
    "note": ""
   },
   {
@@ -1420,7 +1400,7 @@
    "course": "Lynnwood Golf Course",
    "day": "2026-11-14",
    "time": "10:52",
-   "price": 46.99,
+   "price": 53.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
@@ -1505,16 +1485,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
    "note": ""
-  },
-  {
-   "course": "Salish Cliffs Golf Club",
-   "day": "2026-11-14",
-   "time": "11:00",
-   "price": 83.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
-   "note": "cart incl."
   },
   {
    "course": "Sunland Golf Club",
@@ -2170,7 +2140,7 @@
    "course": "Walter E. Hall Golf Course",
    "day": "2026-11-14",
    "time": "11:45",
-   "price": 48.99,
+   "price": 46.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
@@ -2697,16 +2667,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Riverbend Golf Complex",
-   "day": "2026-11-14",
-   "time": "12:18",
-   "price": 36.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search",
-   "note": ""
-  },
-  {
    "course": "The Classic Golf Club",
    "day": "2026-11-14",
    "time": "12:18",
@@ -2845,6 +2805,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
+  },
+  {
+   "course": "White Horse Golf Club",
+   "day": "2026-11-14",
+   "time": "12:24",
+   "price": 57.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
+   "note": "cart incl."
   },
   {
    "course": "Foster Golf Links (Airport)",
@@ -3390,7 +3360,7 @@
    "course": "Walter E. Hall Golf Course",
    "day": "2026-11-14",
    "time": "12:52",
-   "price": 44.49,
+   "price": 43.49,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
@@ -4820,7 +4790,7 @@
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-15",
    "time": "08:03",
-   "price": 44.89,
+   "price": 44.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
@@ -4870,7 +4840,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "08:10",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -4960,7 +4930,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "08:20",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -5050,7 +5020,7 @@
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-15",
    "time": "08:30",
-   "price": 38.98,
+   "price": 34.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search",
@@ -5080,7 +5050,7 @@
    "course": "Gleneagle Golf Course",
    "day": "2026-11-15",
    "time": "08:30",
-   "price": 44.48,
+   "price": 41.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
@@ -5160,7 +5130,7 @@
    "course": "Walter E. Hall Golf Course",
    "day": "2026-11-15",
    "time": "08:37",
-   "price": 40.99,
+   "price": 48.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
@@ -5190,7 +5160,7 @@
    "course": "White Horse Golf Club",
    "day": "2026-11-15",
    "time": "08:39",
-   "price": 62.48,
+   "price": 57.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -5200,7 +5170,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "08:40",
-   "price": 72.48,
+   "price": 64.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -5327,16 +5297,6 @@
    "note": ""
   },
   {
-   "course": "The Home Course",
-   "day": "2026-11-15",
-   "time": "08:48",
-   "price": 64,
-   "holes": 18,
-   "source": "foreup",
-   "book_url": "https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes",
-   "note": "walking rate"
-  },
-  {
    "course": "White Horse Golf Club",
    "day": "2026-11-15",
    "time": "08:48",
@@ -5350,7 +5310,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "08:50",
-   "price": 74.59,
+   "price": 70.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -5420,7 +5380,7 @@
    "course": "Walter E. Hall Golf Course",
    "day": "2026-11-15",
    "time": "08:52",
-   "price": 40.99,
+   "price": 48.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
@@ -5680,11 +5640,11 @@
    "course": "Foster Golf Links (Airport)",
    "day": "2026-11-15",
    "time": "09:14",
-   "price": 50.48,
+   "price": 49.19,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": "cart incl."
+   "note": ""
   },
   {
    "course": "Camas Prairie Golf Course",
@@ -5810,7 +5770,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "09:20",
-   "price": 57.48,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -5960,7 +5920,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "09:30",
-   "price": 52.99,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -6010,7 +5970,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-15",
    "time": "09:33",
-   "price": 40.48,
+   "price": 36.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -6030,7 +5990,7 @@
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-15",
    "time": "09:33",
-   "price": 44.89,
+   "price": 44.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
@@ -6080,7 +6040,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "09:40",
-   "price": 74.59,
+   "price": 70.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -6230,7 +6190,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "09:50",
-   "price": 81.99,
+   "price": 77.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -6280,7 +6240,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "09:50",
-   "price": 52.99,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -6300,7 +6260,7 @@
    "course": "Sunland Golf Club",
    "day": "2026-11-15",
    "time": "09:50",
-   "price": 54.48,
+   "price": 52.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7062-sunland-golf-club/search",
@@ -6330,7 +6290,7 @@
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-15",
    "time": "09:51",
-   "price": 48.48,
+   "price": 44.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
@@ -6410,7 +6370,7 @@
    "course": "Druids Glen Golf Club",
    "day": "2026-11-15",
    "time": "10:00",
-   "price": 80.99,
+   "price": 74.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search",
@@ -6420,7 +6380,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-15",
    "time": "10:00",
-   "price": 40.48,
+   "price": 36.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -6430,7 +6390,7 @@
    "course": "Gleneagle Golf Course",
    "day": "2026-11-15",
    "time": "10:00",
-   "price": 44.48,
+   "price": 41.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
@@ -6470,7 +6430,7 @@
    "course": "Village Greens Golf Course",
    "day": "2026-11-15",
    "time": "10:00",
-   "price": 23.48,
+   "price": 20.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9395-village-greens-golf-course/search",
@@ -6480,11 +6440,11 @@
    "course": "Foster Golf Links (Airport)",
    "day": "2026-11-15",
    "time": "10:02",
-   "price": 50.48,
+   "price": 49.19,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": "cart incl."
+   "note": ""
   },
   {
    "course": "Allenmore Golf Course",
@@ -6540,7 +6500,7 @@
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-15",
    "time": "10:09",
-   "price": 44.89,
+   "price": 44.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
@@ -6560,7 +6520,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "10:10",
-   "price": 72.48,
+   "price": 70.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -6580,7 +6540,7 @@
    "course": "Druids Glen Golf Club",
    "day": "2026-11-15",
    "time": "10:10",
-   "price": 80.99,
+   "price": 74.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search",
@@ -6750,7 +6710,7 @@
    "course": "Druids Glen Golf Club",
    "day": "2026-11-15",
    "time": "10:20",
-   "price": 80.99,
+   "price": 74.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search",
@@ -6800,7 +6760,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "10:20",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -7000,7 +6960,7 @@
    "course": "Village Greens Golf Course",
    "day": "2026-11-15",
    "time": "10:30",
-   "price": 23.48,
+   "price": 20.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9395-village-greens-golf-course/search",
@@ -7060,7 +7020,7 @@
    "course": "White Horse Golf Club",
    "day": "2026-11-15",
    "time": "10:36",
-   "price": 62.48,
+   "price": 57.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -7140,7 +7100,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "10:40",
-   "price": 57.48,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -7170,7 +7130,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "10:40",
-   "price": 74.48,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -7257,6 +7217,16 @@
    "note": ""
   },
   {
+   "course": "The Home Course",
+   "day": "2026-11-15",
+   "time": "10:45",
+   "price": 64,
+   "holes": 18,
+   "source": "foreup",
+   "book_url": "https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes",
+   "note": "walking rate"
+  },
+  {
    "course": "Walter E. Hall Golf Course",
    "day": "2026-11-15",
    "time": "10:45",
@@ -7340,7 +7310,7 @@
    "course": "Gleneagle Golf Course",
    "day": "2026-11-15",
    "time": "10:50",
-   "price": 44.48,
+   "price": 41.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
@@ -7360,7 +7330,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "10:50",
-   "price": 55.99,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -7380,7 +7350,7 @@
    "course": "Sunland Golf Club",
    "day": "2026-11-15",
    "time": "10:50",
-   "price": 54.48,
+   "price": 52.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7062-sunland-golf-club/search",
@@ -7390,7 +7360,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "10:50",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -7480,7 +7450,7 @@
    "course": "The Classic Golf Club",
    "day": "2026-11-15",
    "time": "10:57",
-   "price": 42.48,
+   "price": 38.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
@@ -7490,7 +7460,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "11:00",
-   "price": 72.48,
+   "price": 64.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -7520,7 +7490,7 @@
    "course": "Druids Glen Golf Club",
    "day": "2026-11-15",
    "time": "11:00",
-   "price": 110.48,
+   "price": 100.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search",
@@ -7557,10 +7527,20 @@
    "note": ""
   },
   {
+   "course": "Salish Cliffs Golf Club",
+   "day": "2026-11-15",
+   "time": "11:00",
+   "price": 83.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "11:00",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -7570,7 +7550,7 @@
    "course": "Twin Rivers Golf Course",
    "day": "2026-11-15",
    "time": "11:00",
-   "price": 45.98,
+   "price": 41.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
@@ -7590,7 +7570,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-15",
    "time": "11:03",
-   "price": 40.48,
+   "price": 36.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -7670,7 +7650,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "11:10",
-   "price": 73.99,
+   "price": 68.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -7740,7 +7720,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "11:10",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -7770,7 +7750,7 @@
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-15",
    "time": "11:12",
-   "price": 44.89,
+   "price": 44.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
@@ -7890,7 +7870,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "11:20",
-   "price": 57.48,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -7990,11 +7970,11 @@
    "course": "Foster Golf Links (Airport)",
    "day": "2026-11-15",
    "time": "11:22",
-   "price": 49.19,
+   "price": 45.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": ""
+   "note": "cart incl."
   },
   {
    "course": "Lynnwood Golf Course",
@@ -8040,7 +8020,7 @@
    "course": "Twin Rivers Golf Course",
    "day": "2026-11-15",
    "time": "11:27",
-   "price": 45.98,
+   "price": 41.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
@@ -8050,7 +8030,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "11:30",
-   "price": 73.99,
+   "price": 68.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -8080,7 +8060,7 @@
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-15",
    "time": "11:30",
-   "price": 38.98,
+   "price": 34.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search",
@@ -8110,11 +8090,11 @@
    "course": "Foster Golf Links (Airport)",
    "day": "2026-11-15",
    "time": "11:30",
-   "price": 49.19,
+   "price": 45.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": ""
+   "note": "cart incl."
   },
   {
    "course": "Gleneagle Golf Course",
@@ -8320,7 +8300,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "11:40",
-   "price": 73.99,
+   "price": 68.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -8370,7 +8350,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "11:40",
-   "price": 53.99,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -8420,7 +8400,7 @@
    "course": "Tumwater Valley Golf Club",
    "day": "2026-11-15",
    "time": "11:40",
-   "price": 36.98,
+   "price": 33.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search",
@@ -8464,6 +8444,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Legion Memorial Golf Course",
+   "day": "2026-11-15",
+   "time": "11:45",
+   "price": 51.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
    "note": ""
   },
   {
@@ -8540,7 +8530,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "11:50",
-   "price": 73.99,
+   "price": 68.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -8590,7 +8580,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-15",
    "time": "11:50",
-   "price": 53.99,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -8837,16 +8827,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Sunland Golf Club",
-   "day": "2026-11-15",
-   "time": "12:00",
-   "price": 72.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/7062-sunland-golf-club/search",
-   "note": "cart incl."
-  },
-  {
    "course": "The Classic Golf Club",
    "day": "2026-11-15",
    "time": "12:00",
@@ -8860,7 +8840,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "12:00",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -8910,7 +8890,7 @@
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-15",
    "time": "12:06",
-   "price": 44.89,
+   "price": 44.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
@@ -8970,7 +8950,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "12:10",
-   "price": 74.59,
+   "price": 70.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -9060,7 +9040,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "12:10",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -9090,7 +9070,7 @@
    "course": "Camaloch Golf Course",
    "day": "2026-11-15",
    "time": "12:15",
-   "price": 38.48,
+   "price": 35.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9352-camaloch-golf-course/search",
@@ -9100,7 +9080,7 @@
    "course": "Camas Prairie Golf Course",
    "day": "2026-11-15",
    "time": "12:15",
-   "price": 31.48,
+   "price": 26.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
@@ -9240,7 +9220,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-15",
    "time": "12:20",
-   "price": 81.99,
+   "price": 77.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -9440,7 +9420,7 @@
    "course": "Camaloch Golf Course",
    "day": "2026-11-15",
    "time": "12:30",
-   "price": 38.48,
+   "price": 35.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9352-camaloch-golf-course/search",
@@ -9450,7 +9430,7 @@
    "course": "Camas Prairie Golf Course",
    "day": "2026-11-15",
    "time": "12:30",
-   "price": 31.48,
+   "price": 26.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
@@ -9480,7 +9460,7 @@
    "course": "Druids Glen Golf Club",
    "day": "2026-11-15",
    "time": "12:30",
-   "price": 110.48,
+   "price": 100.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search",
@@ -9540,7 +9520,7 @@
    "course": "Tumwater Valley Golf Club",
    "day": "2026-11-15",
    "time": "12:30",
-   "price": 36.98,
+   "price": 33.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search",
@@ -9630,7 +9610,7 @@
    "course": "Oakbrook Golf Club",
    "day": "2026-11-15",
    "time": "12:36",
-   "price": 45.48,
+   "price": 41.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
@@ -9760,7 +9740,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "12:40",
-   "price": 74.48,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -10210,7 +10190,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "13:00",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -10240,7 +10220,7 @@
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-15",
    "time": "13:00",
-   "price": 44.89,
+   "price": 44.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
@@ -10310,7 +10290,7 @@
    "course": "Legion Memorial Golf Course",
    "day": "2026-11-15",
    "time": "13:07",
-   "price": 44.49,
+   "price": 41.49,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
@@ -10430,7 +10410,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "13:10",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -11560,7 +11540,7 @@
    "course": "Tolt Golf Club",
    "day": "2026-11-15",
    "time": "14:00",
-   "price": 67.99,
+   "price": 67.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
@@ -11607,10 +11587,30 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "08:03",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "08:03",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "08:03",
-   "price": 72.99,
+   "price": 68.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -11655,6 +11655,26 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
    "note": "cart incl."
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "08:12",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "08:12",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
   },
   {
    "course": "White Horse Golf Club",
@@ -11727,6 +11747,26 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "08:21",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "08:21",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "08:21",
@@ -11780,31 +11820,31 @@
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-21",
    "time": "08:30",
-   "price": 52.99,
+   "price": 47.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search",
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "08:30",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Gleneagle Golf Course",
    "day": "2026-11-21",
    "time": "08:30",
-   "price": 50.34,
+   "price": 51.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-21",
-   "time": "08:30",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
   },
   {
    "course": "Port Ludlow Golf Resort",
@@ -11814,6 +11854,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "08:30",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -11867,6 +11917,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "08:39",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "08:39",
@@ -11880,7 +11940,7 @@
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "08:39",
-   "price": 72.99,
+   "price": 68.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -11917,6 +11977,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "08:48",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "08:48",
@@ -11924,6 +11994,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "08:48",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -11977,6 +12057,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "08:57",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "08:57",
@@ -11984,6 +12074,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "08:57",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -12057,6 +12157,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "09:06",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "09:06",
@@ -12070,7 +12180,7 @@
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "09:06",
-   "price": 72.99,
+   "price": 68.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -12137,6 +12247,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "09:15",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "09:15",
@@ -12194,6 +12314,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "09:24",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
    "note": ""
   },
   {
@@ -12255,6 +12385,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
    "note": "cart incl."
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "09:33",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
   },
   {
    "course": "Port Ludlow Golf Resort",
@@ -12337,6 +12477,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "09:42",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "09:42",
@@ -12417,6 +12567,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "09:51",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "09:51",
@@ -12477,10 +12637,20 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "10:00",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Gleneagle Golf Course",
    "day": "2026-11-21",
    "time": "10:00",
-   "price": 50.34,
+   "price": 51.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
@@ -12530,7 +12700,7 @@
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "10:00",
-   "price": 72.99,
+   "price": 68.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -12554,6 +12724,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "10:09",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
    "note": ""
   },
   {
@@ -12637,6 +12817,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "10:18",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "10:18",
@@ -12714,6 +12904,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "10:27",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
    "note": ""
   },
   {
@@ -12817,6 +13017,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "10:36",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "10:36",
@@ -12830,7 +13040,7 @@
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "10:36",
-   "price": 72.99,
+   "price": 68.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -12864,6 +13074,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "The Classic Golf Club",
+   "day": "2026-11-21",
+   "time": "10:39",
+   "price": 49.9,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
    "note": ""
   },
   {
@@ -12914,6 +13134,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "10:45",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
    "note": ""
   },
   {
@@ -12970,7 +13200,7 @@
    "course": "Gleneagle Golf Course",
    "day": "2026-11-21",
    "time": "10:50",
-   "price": 50.34,
+   "price": 51.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
@@ -13014,6 +13244,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "10:54",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
    "note": ""
   },
   {
@@ -13077,20 +13317,40 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "11:03",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "11:03",
-   "price": 72.99,
+   "price": 63.49,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
    "note": ""
   },
   {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "11:03",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "11:03",
-   "price": 72.99,
+   "price": 68.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -13157,6 +13417,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "11:12",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "11:12",
@@ -13164,6 +13434,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "11:12",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -13247,6 +13527,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "11:21",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "11:21",
@@ -13254,6 +13544,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "11:21",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -13310,10 +13610,20 @@
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-21",
    "time": "11:30",
-   "price": 52.99,
+   "price": 47.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search",
+   "note": ""
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "11:30",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
    "note": ""
   },
   {
@@ -13417,13 +13727,33 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "11:39",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "11:39",
-   "price": 72.99,
+   "price": 63.49,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "11:39",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -13500,7 +13830,7 @@
    "course": "Lynnwood Golf Course",
    "day": "2026-11-21",
    "time": "11:45",
-   "price": 46.99,
+   "price": 55.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
@@ -13527,6 +13857,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "11:48",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "11:48",
@@ -13534,6 +13874,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "11:48",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -13610,7 +13960,7 @@
    "course": "Lynnwood Golf Course",
    "day": "2026-11-21",
    "time": "11:52",
-   "price": 46.99,
+   "price": 55.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
@@ -13634,6 +13984,26 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
+   "note": ""
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "11:57",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "11:57",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -13717,6 +14087,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "12:06",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "12:06",
@@ -13727,10 +14107,20 @@
    "note": ""
   },
   {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "12:06",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "12:06",
-   "price": 72.99,
+   "price": 68.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -13837,6 +14227,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "12:15",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Lynnwood Golf Course",
    "day": "2026-11-21",
    "time": "12:15",
@@ -13864,6 +14264,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "12:15",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -13947,6 +14357,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "12:24",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "12:24",
@@ -13954,6 +14374,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "12:24",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -14047,6 +14477,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "12:33",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "12:33",
@@ -14054,6 +14494,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "12:33",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -14147,6 +14597,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "12:42",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Foster Golf Links (Airport)",
    "day": "2026-11-21",
    "time": "12:42",
@@ -14164,6 +14624,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "12:42",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -14257,6 +14727,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "12:51",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "12:51",
@@ -14264,6 +14744,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "12:51",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -14347,6 +14837,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "13:00",
+   "price": 42.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "High Cedars Golf Club",
    "day": "2026-11-21",
    "time": "13:00",
@@ -14407,10 +14907,20 @@
    "note": "cart incl."
   },
   {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "13:00",
+   "price": 44.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "13:00",
-   "price": 72.99,
+   "price": 68.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
@@ -14467,6 +14977,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "13:09",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "13:09",
@@ -14474,6 +14994,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "13:09",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -14515,6 +15045,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
    "note": "cart incl."
+  },
+  {
+   "course": "Oakbrook Golf Club",
+   "day": "2026-11-21",
+   "time": "13:12",
+   "price": 53.86,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
+   "note": ""
   },
   {
    "course": "Foster Golf Links (Airport)",
@@ -14567,6 +15107,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "13:18",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "13:18",
@@ -14574,6 +15124,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "13:18",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -14664,6 +15224,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "13:27",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
    "note": ""
   },
   {
@@ -14687,6 +15257,16 @@
    "note": "walking rate"
   },
   {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "13:27",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "13:27",
@@ -14777,6 +15357,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "13:36",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "13:36",
@@ -14795,6 +15385,16 @@
    "source": "foreup",
    "book_url": "https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes",
    "note": "walking rate"
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "13:36",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
   },
   {
    "course": "White Horse Golf Club",
@@ -14897,6 +15497,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "13:45",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Legion Memorial Golf Course",
    "day": "2026-11-21",
    "time": "13:45",
@@ -14944,6 +15554,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "13:45",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
    "note": ""
   },
   {
@@ -15037,6 +15657,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "13:54",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Foster Golf Links (Airport)",
    "day": "2026-11-21",
    "time": "13:54",
@@ -15055,6 +15685,16 @@
    "source": "foreup",
    "book_url": "https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes",
    "note": "walking rate"
+  },
+  {
+   "course": "Whispering Firs Golf Course",
+   "day": "2026-11-21",
+   "time": "13:54",
+   "price": 34.89,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search",
+   "note": ""
   },
   {
    "course": "White Horse Golf Club",
@@ -15190,7 +15830,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "08:10",
-   "price": 64.48,
+   "price": 67.39,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -15260,7 +15900,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "08:20",
-   "price": 68.99,
+   "price": 73.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -15315,16 +15955,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
    "note": ""
-  },
-  {
-   "course": "Auburn Golf Course",
-   "day": "2026-11-22",
-   "time": "08:30",
-   "price": 68.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
-   "note": "cart incl."
   },
   {
    "course": "Camas Prairie Golf Course",
@@ -15460,7 +16090,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "08:40",
-   "price": 68.99,
+   "price": 73.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -17030,7 +17660,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "11:00",
-   "price": 64.48,
+   "price": 67.39,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -17150,7 +17780,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "11:10",
-   "price": 68.99,
+   "price": 73.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -17270,7 +17900,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "11:20",
-   "price": 68.99,
+   "price": 73.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -17380,7 +18010,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "11:30",
-   "price": 68.99,
+   "price": 73.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -17560,7 +18190,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "11:40",
-   "price": 68.99,
+   "price": 73.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
@@ -17670,7 +18300,7 @@
    "course": "Auburn Golf Course",
    "day": "2026-11-22",
    "time": "11:50",
-   "price": 68.99,
+   "price": 73.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search",
