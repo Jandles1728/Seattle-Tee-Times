@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:58:00.523289-08:00",
+ "updated": "2026-11-18T16:15:08.941842-08:00",
  "errors": [
   "Chronogolf Golf Club at Newcastle: 403 Client Error: Forbidden",
   "Chronogolf Gold Mountain: 403 Client Error: Forbidden",
@@ -37,16 +37,6 @@
    "note": ""
   },
   {
-   "course": "Gleneagle Golf Course",
-   "day": "2026-11-21",
-   "time": "08:00",
-   "price": 54.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Tolt Golf Club",
    "day": "2026-11-21",
    "time": "08:00",
@@ -54,16 +44,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Nile Shrine Golf Club",
-   "day": "2026-11-21",
-   "time": "08:02",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/15776-nile-shrine-golf-club/search",
    "note": ""
   },
   {
@@ -107,6 +87,16 @@
    "note": "cart incl."
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "08:12",
+   "price": 41.29,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "White Horse Golf Club",
    "day": "2026-11-21",
    "time": "08:12",
@@ -125,6 +115,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
    "note": ""
+  },
+  {
+   "course": "Lakeland Village Golf Course",
+   "day": "2026-11-21",
+   "time": "08:18",
+   "price": 62.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Discovery Bay Golf Club",
@@ -280,7 +280,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "08:57",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -347,16 +347,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Walter E. Hall Golf Course",
-   "day": "2026-11-21",
-   "time": "09:07",
-   "price": 40.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-21",
    "time": "09:10",
@@ -387,26 +377,6 @@
    "note": ""
   },
   {
-   "course": "Lakeland Village Golf Course",
-   "day": "2026-11-21",
-   "time": "09:12",
-   "price": 53.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
-   "note": "cart incl."
-  },
-  {
-   "course": "Eagles Pride Golf Course",
-   "day": "2026-11-21",
-   "time": "09:15",
-   "price": 44.89,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "09:15",
@@ -414,16 +384,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
-   "note": ""
-  },
-  {
-   "course": "Walter E. Hall Golf Course",
-   "day": "2026-11-21",
-   "time": "09:15",
-   "price": 40.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
    "note": ""
   },
   {
@@ -480,7 +440,7 @@
    "course": "Lakeland Village Golf Course",
    "day": "2026-11-21",
    "time": "09:21",
-   "price": 62.99,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
@@ -497,20 +457,10 @@
    "note": ""
   },
   {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-21",
-   "time": "09:22",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "09:24",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -580,7 +530,7 @@
    "course": "Lakeland Village Golf Course",
    "day": "2026-11-21",
    "time": "09:30",
-   "price": 62.99,
+   "price": 53.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
@@ -647,16 +597,6 @@
    "note": ""
   },
   {
-   "course": "Gleneagle Golf Course",
-   "day": "2026-11-21",
-   "time": "09:40",
-   "price": 44.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Salish Cliffs Golf Club",
    "day": "2026-11-21",
    "time": "09:40",
@@ -690,7 +630,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "09:42",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -720,7 +660,7 @@
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-21",
    "time": "09:45",
-   "price": 47.99,
+   "price": 56.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
@@ -755,6 +695,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search",
    "note": ""
+  },
+  {
+   "course": "Lake Spanaway Golf Course",
+   "day": "2026-11-21",
+   "time": "09:50",
+   "price": 57.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
+   "note": "cart incl."
   },
   {
    "course": "Sunland Golf Club",
@@ -817,6 +767,16 @@
    "note": ""
   },
   {
+   "course": "Eagles Pride Golf Course",
+   "day": "2026-11-21",
+   "time": "10:00",
+   "price": 38.48,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "10:00",
@@ -825,16 +785,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
    "note": ""
-  },
-  {
-   "course": "Salish Cliffs Golf Club",
-   "day": "2026-11-21",
-   "time": "10:00",
-   "price": 92.59,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
-   "note": "cart incl."
   },
   {
    "course": "Tolt Golf Club",
@@ -877,20 +827,10 @@
    "note": ""
   },
   {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-21",
-   "time": "10:07",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "10:09",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -967,16 +907,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Nile Shrine Golf Club",
-   "day": "2026-11-21",
-   "time": "10:15",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/15776-nile-shrine-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-21",
    "time": "10:18",
@@ -1010,7 +940,7 @@
    "course": "Salish Cliffs Golf Club",
    "day": "2026-11-21",
    "time": "10:20",
-   "price": 101.99,
+   "price": 92.59,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
@@ -1060,7 +990,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "10:27",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -1317,16 +1247,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Foster Golf Links (Airport)",
-   "day": "2026-11-21",
-   "time": "10:50",
-   "price": 49.19,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": ""
-  },
-  {
    "course": "Gleneagle Golf Course",
    "day": "2026-11-21",
    "time": "10:50",
@@ -1340,7 +1260,7 @@
    "course": "Salish Cliffs Golf Club",
    "day": "2026-11-21",
    "time": "10:50",
-   "price": 101.99,
+   "price": 83.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
@@ -1407,16 +1327,6 @@
    "note": ""
   },
   {
-   "course": "Foster Golf Links (Airport)",
-   "day": "2026-11-21",
-   "time": "10:58",
-   "price": 49.19,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": ""
-  },
-  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-21",
    "time": "11:00",
@@ -1447,16 +1357,6 @@
    "note": ""
   },
   {
-   "course": "Salish Cliffs Golf Club",
-   "day": "2026-11-21",
-   "time": "11:00",
-   "price": 83.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Twin Rivers Golf Course",
    "day": "2026-11-21",
    "time": "11:00",
@@ -1464,6 +1364,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Port Ludlow Golf Resort",
+   "day": "2026-11-21",
+   "time": "11:03",
+   "price": 72.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
    "note": ""
   },
   {
@@ -1484,16 +1394,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Foster Golf Links (Airport)",
-   "day": "2026-11-21",
-   "time": "11:06",
-   "price": 49.19,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
    "note": ""
   },
   {
@@ -1560,7 +1460,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "11:12",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -1585,16 +1485,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-21",
-   "time": "11:15",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
   },
   {
    "course": "Lynnwood Golf Course",
@@ -1647,16 +1537,6 @@
    "note": "cart incl."
   },
   {
-   "course": "High Cedars Golf Club",
-   "day": "2026-11-21",
-   "time": "11:20",
-   "price": 88.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Salish Cliffs Golf Club",
    "day": "2026-11-21",
    "time": "11:20",
@@ -1680,7 +1560,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "11:21",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -1795,16 +1675,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
    "note": "cart incl."
-  },
-  {
-   "course": "High Cedars Golf Club",
-   "day": "2026-11-21",
-   "time": "11:30",
-   "price": 88.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search",
-   "note": ""
   },
   {
    "course": "Lynnwood Golf Course",
@@ -2137,16 +2007,6 @@
    "note": ""
   },
   {
-   "course": "Allenmore Golf Course",
-   "day": "2026-11-21",
-   "time": "11:51",
-   "price": 50.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "The Classic Golf Club",
    "day": "2026-11-21",
    "time": "11:51",
@@ -2164,16 +2024,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Legion Memorial Golf Course",
-   "day": "2026-11-21",
-   "time": "11:52",
-   "price": 51.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
    "note": ""
   },
   {
@@ -2235,16 +2085,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Nile Shrine Golf Club",
-   "day": "2026-11-21",
-   "time": "11:59",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/15776-nile-shrine-golf-club/search",
-   "note": ""
   },
   {
    "course": "Allenmore Golf Course",
@@ -2350,7 +2190,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "12:06",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -2385,16 +2225,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-21",
-   "time": "12:07",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
   },
   {
    "course": "Allenmore Golf Course",
@@ -2520,20 +2350,10 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "12:15",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-21",
-   "time": "12:15",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
    "note": ""
   },
   {
@@ -2654,6 +2474,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Legion Memorial Golf Course",
+   "day": "2026-11-21",
+   "time": "12:22",
+   "price": 44.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
    "note": ""
   },
   {
@@ -2907,26 +2737,6 @@
    "note": ""
   },
   {
-   "course": "Oakbrook Golf Club",
-   "day": "2026-11-21",
-   "time": "12:36",
-   "price": 47.59,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "The Classic Golf Club",
-   "day": "2026-11-21",
-   "time": "12:36",
-   "price": 43.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-21",
    "time": "12:37",
@@ -3120,7 +2930,7 @@
    "course": "The Classic Golf Club",
    "day": "2026-11-21",
    "time": "12:45",
-   "price": 47.99,
+   "price": 43.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
@@ -3370,7 +3180,7 @@
    "course": "Eagles Pride Golf Course",
    "day": "2026-11-21",
    "time": "13:00",
-   "price": 44.89,
+   "price": 41.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search",
@@ -3447,16 +3257,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Walter E. Hall Golf Course",
-   "day": "2026-11-21",
-   "time": "13:00",
-   "price": 39.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-21",
    "time": "13:00",
@@ -3475,16 +3275,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Riverbend Golf Complex",
-   "day": "2026-11-21",
-   "time": "13:03",
-   "price": 36.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search",
-   "note": ""
   },
   {
    "course": "The Classic Golf Club",
@@ -3624,16 +3414,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Lake Spanaway Golf Course",
-   "day": "2026-11-21",
-   "time": "13:10",
-   "price": 30.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
    "note": ""
   },
   {
@@ -3997,16 +3777,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-21",
-   "time": "13:30",
-   "price": 30.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-21",
    "time": "13:30",
@@ -4050,7 +3820,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-21",
    "time": "13:30",
-   "price": 30.99,
+   "price": 32.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -4220,11 +3990,11 @@
    "course": "Cedarcrest Golf Course",
    "day": "2026-11-21",
    "time": "13:37",
-   "price": 33.99,
+   "price": 30.49,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
+   "note": "cart incl."
   },
   {
    "course": "Legion Memorial Golf Course",
@@ -5007,16 +4777,6 @@
    "note": ""
   },
   {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-22",
-   "time": "08:22",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Allenmore Golf Course",
    "day": "2026-11-22",
    "time": "08:24",
@@ -5077,16 +4837,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-22",
-   "time": "08:30",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Tolt Golf Club",
    "day": "2026-11-22",
    "time": "08:30",
@@ -5114,16 +4864,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-22",
-   "time": "08:37",
-   "price": 54.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
    "note": ""
   },
   {
@@ -5650,7 +5390,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-22",
    "time": "09:20",
-   "price": 51.99,
+   "price": 53.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -5714,16 +5454,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": ""
-  },
-  {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-22",
-   "time": "09:22",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
    "note": ""
   },
   {
@@ -5940,7 +5670,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-22",
    "time": "09:40",
-   "price": 51.99,
+   "price": 53.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -6024,16 +5754,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-22",
-   "time": "09:45",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
    "note": ""
   },
   {
@@ -6247,16 +5967,6 @@
    "note": "cart incl."
   },
   {
-   "course": "High Cedars Golf Club",
-   "day": "2026-11-22",
-   "time": "10:00",
-   "price": 88.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-22",
    "time": "10:00",
@@ -6334,16 +6044,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-22",
-   "time": "10:07",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
    "note": ""
   },
   {
@@ -6747,6 +6447,16 @@
    "note": ""
   },
   {
+   "course": "Riverbend Golf Complex",
+   "day": "2026-11-22",
+   "time": "10:30",
+   "price": 68.29,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search",
+   "note": "cart incl."
+  },
+  {
    "course": "Salish Cliffs Golf Club",
    "day": "2026-11-22",
    "time": "10:30",
@@ -6785,6 +6495,16 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
    "note": "cart incl."
+  },
+  {
+   "course": "Nile Shrine Golf Club",
+   "day": "2026-11-22",
+   "time": "10:34",
+   "price": 47.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/15776-nile-shrine-golf-club/search",
+   "note": ""
   },
   {
    "course": "Eagles Pride Golf Course",
@@ -7157,16 +6877,6 @@
    "note": ""
   },
   {
-   "course": "Nile Shrine Golf Club",
-   "day": "2026-11-22",
-   "time": "10:53",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/15776-nile-shrine-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Whispering Firs Golf Course",
    "day": "2026-11-22",
    "time": "10:54",
@@ -7277,16 +6987,6 @@
    "note": "cart incl."
   },
   {
-   "course": "Lynnwood Golf Course",
-   "day": "2026-11-22",
-   "time": "11:00",
-   "price": 46.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Salish Cliffs Golf Club",
    "day": "2026-11-22",
    "time": "11:00",
@@ -7314,16 +7014,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Port Ludlow Golf Resort",
-   "day": "2026-11-22",
-   "time": "11:03",
-   "price": 63.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
    "note": ""
   },
   {
@@ -7364,16 +7054,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": ""
-  },
-  {
-   "course": "The Classic Golf Club",
-   "day": "2026-11-22",
-   "time": "11:06",
-   "price": 43.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
    "note": ""
   },
   {
@@ -7500,7 +7180,7 @@
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-22",
    "time": "11:12",
-   "price": 72.99,
+   "price": 63.49,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
@@ -7747,16 +7427,6 @@
    "note": ""
   },
   {
-   "course": "Walter E. Hall Golf Course",
-   "day": "2026-11-22",
-   "time": "11:22",
-   "price": 40.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Allenmore Golf Course",
    "day": "2026-11-22",
    "time": "11:24",
@@ -7767,20 +7437,10 @@
    "note": ""
   },
   {
-   "course": "Riverbend Golf Complex",
-   "day": "2026-11-22",
-   "time": "11:24",
-   "price": 68.29,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search",
-   "note": "cart incl."
-  },
-  {
    "course": "The Classic Golf Club",
    "day": "2026-11-22",
    "time": "11:24",
-   "price": 47.99,
+   "price": 43.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
@@ -7934,16 +7594,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search",
-   "note": ""
-  },
-  {
-   "course": "Walter E. Hall Golf Course",
-   "day": "2026-11-22",
-   "time": "11:30",
-   "price": 40.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
    "note": ""
   },
   {
@@ -8190,7 +7840,7 @@
    "course": "Riverbend Golf Complex",
    "day": "2026-11-22",
    "time": "11:42",
-   "price": 74.99,
+   "price": 68.29,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search",
@@ -8235,16 +7885,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search",
    "note": "cart incl."
-  },
-  {
-   "course": "Legion Memorial Golf Course",
-   "day": "2026-11-22",
-   "time": "11:45",
-   "price": 44.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
-   "note": ""
   },
   {
    "course": "Lynnwood Golf Course",
@@ -8467,6 +8107,16 @@
    "note": ""
   },
   {
+   "course": "Legion Memorial Golf Course",
+   "day": "2026-11-22",
+   "time": "11:52",
+   "price": 51.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
+   "note": ""
+  },
+  {
    "course": "Lynnwood Golf Course",
    "day": "2026-11-22",
    "time": "11:52",
@@ -8600,7 +8250,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-22",
    "time": "12:00",
-   "price": 54.99,
+   "price": 53.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -8807,16 +8457,6 @@
    "note": ""
   },
   {
-   "course": "Tumwater Valley Golf Club",
-   "day": "2026-11-22",
-   "time": "12:10",
-   "price": 37.98,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search",
-   "note": "cart incl."
-  },
-  {
    "course": "Lakeland Village Golf Course",
    "day": "2026-11-22",
    "time": "12:12",
@@ -8937,16 +8577,6 @@
    "note": ""
   },
   {
-   "course": "Riverbend Golf Complex",
-   "day": "2026-11-22",
-   "time": "12:18",
-   "price": 36.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search",
-   "note": ""
-  },
-  {
    "course": "The Classic Golf Club",
    "day": "2026-11-22",
    "time": "12:18",
@@ -9000,7 +8630,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-22",
    "time": "12:20",
-   "price": 54.99,
+   "price": 53.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -9040,11 +8670,11 @@
    "course": "Tumwater Valley Golf Club",
    "day": "2026-11-22",
    "time": "12:20",
-   "price": 38.99,
+   "price": 37.98,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search",
-   "note": ""
+   "note": "cart incl."
   },
   {
    "course": "Lakeland Village Golf Course",
@@ -9064,6 +8694,16 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
+   "note": ""
+  },
+  {
+   "course": "Legion Memorial Golf Course",
+   "day": "2026-11-22",
+   "time": "12:22",
+   "price": 52.99,
+   "holes": 18,
+   "source": "golfnow",
+   "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
    "note": ""
   },
   {
@@ -9127,16 +8767,6 @@
    "note": ""
   },
   {
-   "course": "Oakbrook Golf Club",
-   "day": "2026-11-22",
-   "time": "12:27",
-   "price": 46.48,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Riverbend Golf Complex",
    "day": "2026-11-22",
    "time": "12:27",
@@ -9177,16 +8807,6 @@
    "note": ""
   },
   {
-   "course": "Cedarcrest Golf Course",
-   "day": "2026-11-22",
-   "time": "12:30",
-   "price": 33.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search",
-   "note": ""
-  },
-  {
    "course": "Discovery Bay Golf Club",
    "day": "2026-11-22",
    "time": "12:30",
@@ -9220,7 +8840,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-22",
    "time": "12:30",
-   "price": 54.99,
+   "price": 53.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -9327,16 +8947,6 @@
    "note": ""
   },
   {
-   "course": "Oakbrook Golf Club",
-   "day": "2026-11-22",
-   "time": "12:36",
-   "price": 47.59,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Riverbend Golf Complex",
    "day": "2026-11-22",
    "time": "12:36",
@@ -9344,16 +8954,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search",
-   "note": ""
-  },
-  {
-   "course": "The Classic Golf Club",
-   "day": "2026-11-22",
-   "time": "12:36",
-   "price": 47.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search",
    "note": ""
   },
   {
@@ -9430,7 +9030,7 @@
    "course": "Lake Spanaway Golf Course",
    "day": "2026-11-22",
    "time": "12:40",
-   "price": 54.99,
+   "price": 53.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search",
@@ -9557,16 +9157,6 @@
    "note": ""
   },
   {
-   "course": "Oakbrook Golf Club",
-   "day": "2026-11-22",
-   "time": "12:45",
-   "price": 51.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
-   "note": ""
-  },
-  {
    "course": "Riverbend Golf Complex",
    "day": "2026-11-22",
    "time": "12:45",
@@ -9680,7 +9270,7 @@
    "course": "Tumwater Valley Golf Club",
    "day": "2026-11-22",
    "time": "12:50",
-   "price": 42.99,
+   "price": 38.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search",
@@ -9740,7 +9330,7 @@
    "course": "Legion Memorial Golf Course",
    "day": "2026-11-22",
    "time": "12:52",
-   "price": 51.99,
+   "price": 52.99,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search",
@@ -9764,16 +9354,6 @@
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search",
-   "note": ""
-  },
-  {
-   "course": "Oakbrook Golf Club",
-   "day": "2026-11-22",
-   "time": "12:54",
-   "price": 51.99,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
    "note": ""
   },
   {
@@ -9970,7 +9550,7 @@
    "course": "Oakbrook Golf Club",
    "day": "2026-11-22",
    "time": "13:03",
-   "price": 47.59,
+   "price": 46.48,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
@@ -10180,7 +9760,7 @@
    "course": "Oakbrook Golf Club",
    "day": "2026-11-22",
    "time": "13:12",
-   "price": 51.99,
+   "price": 47.59,
    "holes": 18,
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search",
@@ -11987,16 +11567,6 @@
    "note": ""
   },
   {
-   "course": "Foster Golf Links (Airport)",
-   "day": "2026-11-28",
-   "time": "09:06",
-   "price": 49.19,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search",
-   "note": ""
-  },
-  {
    "course": "Port Ludlow Golf Resort",
    "day": "2026-11-28",
    "time": "09:06",
@@ -12645,16 +12215,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search",
    "note": "cart incl."
-  },
-  {
-   "course": "High Cedars Golf Club",
-   "day": "2026-11-28",
-   "time": "10:00",
-   "price": 88.49,
-   "holes": 18,
-   "source": "golfnow",
-   "book_url": "https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search",
-   "note": ""
   },
   {
    "course": "Port Ludlow Golf Resort",
@@ -14715,16 +14275,6 @@
    "source": "golfnow",
    "book_url": "https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search",
    "note": ""
-  },
-  {
-   "course": "The Home Course",
-   "day": "2026-11-28",
-   "time": "12:42",
-   "price": 46,
-   "holes": 18,
-   "source": "foreup",
-   "book_url": "https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes",
-   "note": "walking rate"
   },
   {
    "course": "White Horse Golf Club",
