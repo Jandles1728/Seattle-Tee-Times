@@ -1,8 +1,8 @@
 # Weekend tee times — foursome, 8:00a–2:00p
-_Updated Tue Nov 24, 10:50 AM Pacific. Prices are per player as each site shows them._
+_Updated Tue Nov 24, 6:59 PM Pacific. Prices are per player as each site shows them._
 
 ## Saturday, November 28
-**Weather (8a–2p):** 46–50°F, 23% rain, wind to 6 mph, Slight Chance Light Rain
+**Weather (8a–2p):** 46–50°F, 10% rain, wind to 5 mph, Mostly Cloudy
 
 | Course | Open times | From | Book |
 |---|---|---|---|
@@ -10,47 +10,48 @@ _Updated Tue Nov 24, 10:50 AM Pacific. Prices are per player as each site shows 
 | Lake Spanaway Golf Course | 12:40p, 12:50p, 1:00p, 1:20p, 1:30p, 1:50p, 2:00p | $30 | [golfnow](https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search) |
 | Camas Prairie Golf Course | 8:00a, 8:15a, 8:30a, 8:45a, 9:00a, 9:15a, 9:30a, 9:45a … +17 | $32 | [golfnow](https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search) |
 | Cedarcrest Golf Course | 8:00a, 8:07a, 9:07a, 9:15a, 9:22a, 9:30a, 9:37a, 9:45a … +31 | $33 | [golfnow](https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search) |
-| Eagles Pride Golf Course | 8:03a, 8:12a, 8:30a, 8:39a, 8:48a, 8:57a, 9:15a, 9:24a … +25 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search) |
+| Eagles Pride Golf Course | 8:03a, 8:12a, 8:30a, 8:39a, 8:48a, 9:15a, 9:24a, 9:33a … +24 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search) |
 | Whispering Firs Golf Course | 8:03a, 8:12a, 8:21a, 8:30a, 8:39a, 10:36a, 10:45a, 10:54a … +20 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search) |
-| Twin Rivers Golf Course | 9:03a, 9:21a, 9:48a, 10:06a, 10:42a, 11:00a, 11:27a, 11:45a … +6 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search) |
-| Walter E. Hall Golf Course | 11:30a, 11:37a, 11:45a, 11:52a, 12:15p, 12:22p, 12:30p, 12:37p … +11 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search) |
-| Lynnwood Golf Course | 8:37a, 8:45a, 9:15a, 9:22a, 9:37a, 9:45a, 9:52a, 10:22a … +25 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search) |
-| Foster Golf Links (Airport) | 8:10a, 8:18a, 8:26a, 8:34a, 8:42a, 8:50a, 8:58a, 9:14a … +26 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search) |
+| Twin Rivers Golf Course | 9:03a, 9:21a, 9:48a, 10:06a, 10:42a, 11:27a, 11:45a, 12:12p … +5 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search) |
+| Walter E. Hall Golf Course | 11:52a, 12:15p, 12:22p, 12:30p, 12:37p, 12:45p, 12:52p, 1:00p … +8 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search) |
+| Lynnwood Golf Course | 9:15a, 9:22a, 9:37a, 9:45a, 9:52a, 10:22a, 10:52a, 11:00a … +22 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search) |
+| Foster Golf Links (Airport) | 8:10a, 8:18a, 8:26a, 8:34a, 8:42a, 8:50a, 8:58a, 9:14a … +23 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search) |
 | Legion Memorial Golf Course | 12:52p, 1:00p, 1:07p, 1:15p, 1:22p, 1:30p, 1:37p, 1:45p … +2 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search) |
 | Tumwater Valley Golf Club | 12:20p, 12:30p, 12:40p, 12:50p, 1:10p, 1:20p, 1:30p, 1:40p … +2 | $38 | [golfnow](https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search) |
 | The Home Course | 1:00p, 1:09p, 1:18p, 1:27p, 1:36p, 1:45p, 1:54p | $39 | [foreup](https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes) |
 | Camaloch Golf Course | 12:15p, 12:30p | $39 | [golfnow](https://www.golfnow.com/tee-times/facility/9352-camaloch-golf-course/search) |
 | Discovery Bay Golf Club | 8:00a, 8:10a, 8:20a, 8:30a, 8:40a, 8:50a, 9:00a, 9:10a … +29 | $41 | [golfnow](https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search) |
-| Allenmore Golf Course | 8:15a, 8:24a, 8:51a, 9:00a, 9:09a, 9:18a, 9:36a, 9:45a … +13 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search) |
-| Lakeland Village Golf Course | 8:09a, 8:18a, 8:27a, 8:36a, 8:45a, 8:54a, 9:03a, 9:12a … +32 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search) |
-| Gleneagle Golf Course | 8:10a, 8:20a, 8:30a, 8:40a, 8:50a, 9:30a, 9:40a, 9:50a … +11 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search) |
+| Allenmore Golf Course | 8:15a, 8:24a, 8:51a, 9:00a, 9:09a, 9:18a, 9:36a, 9:45a … +12 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search) |
+| Lakeland Village Golf Course | 8:09a, 8:18a, 8:27a, 8:36a, 8:45a, 8:54a, 9:03a, 9:12a … +31 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search) |
+| Gleneagle Golf Course | 8:10a, 8:20a, 8:30a, 8:40a, 8:50a, 9:30a, 9:40a, 10:10a … +9 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search) |
 | Oakbrook Golf Club | 1:48p, 1:57p | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search) |
-| Nile Shrine Golf Club | 9:27a, 9:37a, 9:56a, 10:05a, 11:40a, 11:50a, 11:59a, 12:09p … +1 | $48 | [golfnow](https://www.golfnow.com/tee-times/facility/15776-nile-shrine-golf-club/search) |
-| The Classic Golf Club | 8:42a, 9:27a, 9:45a, 11:15a, 11:24a, 11:42a, 11:51a, 12:18p … +11 | $48 | [golfnow](https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search) |
+| Nile Shrine Golf Club | 10:05a, 11:40a, 11:50a, 11:59a, 12:09p, 12:18p | $48 | [golfnow](https://www.golfnow.com/tee-times/facility/15776-nile-shrine-golf-club/search) |
+| The Classic Golf Club | 9:45a, 11:51a, 12:18p, 12:27p, 12:36p, 12:45p, 12:54p, 1:03p … +6 | $48 | [golfnow](https://www.golfnow.com/tee-times/facility/410-the-classic-golf-club/search) |
 | Port Ludlow Golf Resort | 8:57a, 9:06a, 9:15a, 9:24a, 9:33a, 9:42a, 9:51a, 10:00a … +22 | $48 | [golfnow](https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search) |
 | Sunland Golf Club | 9:00a, 9:10a, 9:20a, 9:30a, 9:40a, 9:50a, 10:50a, 11:00a … +18 | $56 | [golfnow](https://www.golfnow.com/tee-times/facility/7062-sunland-golf-club/search) |
 | White Horse Golf Club | 8:03a, 8:12a, 8:21a, 8:30a, 8:39a, 8:48a, 8:57a, 9:06a … +31 | $64 | [golfnow](https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search) |
-| Druids Glen Golf Club | 8:10a, 8:50a, 9:10a, 10:20a, 10:40a, 10:50a, 11:10a, 11:20a … +15 | $68 | [golfnow](https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search) |
-| Tolt Golf Club | 8:00a, 8:10a, 8:20a, 9:00a, 9:10a, 9:20a, 9:30a, 9:40a … +22 | $68 | [golfnow](https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search) |
+| Druids Glen Golf Club | 8:10a, 8:50a, 10:20a, 10:40a, 10:50a, 11:10a, 11:20a, 11:30a … +14 | $68 | [golfnow](https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search) |
+| Tolt Golf Club | 8:00a, 8:10a, 8:20a, 9:00a, 9:10a, 9:20a, 9:30a, 9:40a … +19 | $68 | [golfnow](https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search) |
+| Auburn Golf Course | 8:30a, 8:40a, 8:50a, 9:00a | $78 | [golfnow](https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search) |
 | Salish Cliffs Golf Club | 9:10a, 9:20a, 9:40a, 9:50a, 10:10a, 10:20a, 10:40a, 11:10a … +15 | $83 | [golfnow](https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search) |
-| High Cedars Golf Club | 11:00a, 11:10a, 11:20a, 11:30a, 11:40a, 11:50a, 12:00p, 12:10p … +11 | $88 | [golfnow](https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search) |
+| High Cedars Golf Club | 10:40a, 11:10a, 11:20a, 11:30a, 11:40a, 11:50a, 12:00p, 12:10p … +11 | $88 | [golfnow](https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search) |
 
 ## Sunday, November 29
-**Weather (8a–2p):** 45–50°F, 43% rain, wind to 5 mph, Chance Light Rain
+**Weather (8a–2p):** 47–49°F, 50% rain, wind to 5 mph, Chance Light Rain
 
 | Course | Open times | From | Book |
 |---|---|---|---|
 | Village Greens Golf Course | 10:00a, 10:30a | $24 | [golfnow](https://www.golfnow.com/tee-times/facility/9395-village-greens-golf-course/search) |
-| Lake Spanaway Golf Course | 8:50a, 9:10a, 9:20a, 9:30a, 9:50a, 10:10a, 10:20a, 10:30a … +14 | $29 | [golfnow](https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search) |
+| Lake Spanaway Golf Course | 8:50a, 9:10a, 9:20a, 9:30a, 9:50a, 10:10a, 10:20a, 10:30a … +14 | $28 | [golfnow](https://www.golfnow.com/tee-times/facility/16038-lake-spanaway-golf-course/search) |
 | Camas Prairie Golf Course | 8:00a, 8:15a, 8:30a, 8:45a, 9:00a, 9:15a, 9:30a, 9:45a … +17 | $33 | [golfnow](https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search) |
 | Cedarcrest Golf Course | 8:00a, 8:30a, 8:37a, 9:07a, 9:15a, 9:22a, 9:37a, 9:45a … +30 | $34 | [golfnow](https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search) |
 | Eagles Pride Golf Course | 8:03a, 8:12a, 8:21a, 8:30a, 8:39a, 8:48a, 8:57a, 9:06a … +32 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/10632-eagles-pride-golf-course/search) |
 | Whispering Firs Golf Course | 8:03a, 8:12a, 8:21a, 8:30a, 8:39a, 8:57a, 9:06a, 10:09a … +23 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/8932-whispering-firs-golf-course/search) |
 | Twin Rivers Golf Course | 8:27a, 9:03a, 9:21a, 9:48a, 10:06a, 10:42a, 11:00a, 11:27a … +7 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/2748-twin-rivers-golf-course/search) |
-| Walter E. Hall Golf Course | 8:30a, 8:37a, 8:52a, 9:00a, 9:07a, 9:15a, 9:30a, 9:37a … +30 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search) |
-| Foster Golf Links (Airport) | 9:14a, 9:22a, 9:30a, 9:38a, 9:46a, 9:54a, 10:10a, 10:18a … +26 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search) |
-| Legion Memorial Golf Course | 11:52a, 12:30p, 12:37p, 12:45p, 12:52p, 1:00p, 1:07p, 1:15p … +6 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search) |
-| Riverbend Golf Complex | 9:02a, 9:10a, 9:27a, 9:36a, 9:45a, 9:54a, 10:12a, 10:21a … +18 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search) |
+| Walter E. Hall Golf Course | 8:30a, 8:37a, 8:52a, 9:00a, 9:07a, 9:15a, 9:30a, 9:37a … +29 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search) |
+| Foster Golf Links (Airport) | 9:22a, 9:30a, 9:38a, 9:46a, 9:54a, 10:10a, 10:18a, 10:26a … +25 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search) |
+| Legion Memorial Golf Course | 11:52a, 12:37p, 12:45p, 12:52p, 1:00p, 1:07p, 1:15p, 1:22p … +5 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search) |
+| Riverbend Golf Complex | 9:10a, 9:27a, 9:36a, 9:45a, 9:54a, 10:12a, 10:21a, 10:39a … +17 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/679-riverbend-golf-complex/search) |
 | Tumwater Valley Golf Club | 9:10a, 9:20a, 9:40a, 9:50a, 11:40a, 11:50a, 12:00p, 12:10p … +10 | $38 | [golfnow](https://www.golfnow.com/tee-times/facility/5629-tumwater-valley-golf-club/search) |
 | The Home Course | 12:33p, 12:42p, 12:51p, 1:00p, 1:09p, 1:18p, 1:27p, 1:36p … +2 | $39 | [foreup](https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes) |
 | Camaloch Golf Course | 12:15p, 12:30p | $39 | [golfnow](https://www.golfnow.com/tee-times/facility/9352-camaloch-golf-course/search) |
@@ -61,12 +62,12 @@ _Updated Tue Nov 24, 10:50 AM Pacific. Prices are per player as each site shows 
 | Lakeland Village Golf Course | 8:09a, 8:18a, 8:27a, 8:36a, 8:45a, 8:54a, 9:12a, 9:21a … +31 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/4024-lakeland-village-golf-course/search) |
 | Lynnwood Golf Course | 8:15a, 8:22a, 8:30a, 8:37a, 8:45a, 8:52a, 9:07a, 9:15a … +32 | $47 | [golfnow](https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search) |
 | Gleneagle Golf Course | 8:00a, 8:10a, 8:20a, 8:30a, 8:40a, 8:50a, 9:00a, 9:10a … +17 | $47 | [golfnow](https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search) |
-| Oakbrook Golf Club | 12:36p, 12:45p, 12:54p, 1:03p, 1:12p, 1:21p, 1:30p, 1:39p … +1 | $47 | [golfnow](https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search) |
+| Oakbrook Golf Club | 12:45p, 12:54p, 1:03p, 1:12p, 1:21p, 1:30p, 1:39p, 1:57p | $47 | [golfnow](https://www.golfnow.com/tee-times/facility/10216-oakbrook-golf-club/search) |
 | Port Ludlow Golf Resort | 8:57a, 9:15a, 9:24a, 9:33a, 9:42a, 9:51a, 10:00a, 10:09a … +22 | $48 | [golfnow](https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search) |
 | Sunland Golf Club | 9:00a, 9:10a, 9:20a, 9:30a, 9:40a, 9:50a, 10:00a, 10:10a … +21 | $57 | [golfnow](https://www.golfnow.com/tee-times/facility/7062-sunland-golf-club/search) |
-| Druids Glen Golf Club | 8:10a, 8:30a, 8:40a, 8:50a, 9:10a, 9:20a, 9:30a, 9:40a … +26 | $61 | [golfnow](https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search) |
-| White Horse Golf Club | 8:03a, 8:12a, 8:21a, 8:30a, 8:39a, 8:48a, 8:57a, 9:06a … +30 | $64 | [golfnow](https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search) |
-| Auburn Golf Course | 8:50a, 9:00a, 9:10a, 9:20a, 9:30a, 9:50a, 10:10a, 10:20a … +11 | $67 | [golfnow](https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search) |
+| White Horse Golf Club | 8:03a, 8:12a, 8:21a, 8:39a, 8:48a, 8:57a, 9:06a, 9:15a … +29 | $64 | [golfnow](https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search) |
+| Auburn Golf Course | 9:00a, 9:10a, 9:20a, 9:30a, 9:50a, 10:10a, 10:20a, 10:40a … +10 | $67 | [golfnow](https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search) |
+| Druids Glen Golf Club | 8:10a, 8:30a, 8:40a, 8:50a, 9:20a, 9:30a, 9:50a, 10:00a … +24 | $68 | [golfnow](https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search) |
 | Tolt Golf Club | 8:00a, 8:10a, 8:20a, 8:30a, 8:40a, 8:50a, 9:00a, 9:10a … +29 | $68 | [golfnow](https://www.golfnow.com/tee-times/facility/2434-tolt-golf-club/search) |
 | Salish Cliffs Golf Club | 9:10a, 9:40a, 9:50a, 10:00a, 10:10a, 10:20a, 10:30a, 10:40a … +20 | $83 | [golfnow](https://www.golfnow.com/tee-times/facility/9331-salish-cliffs-golf-club/search) |
 | High Cedars Golf Club | 8:40a, 8:50a, 9:00a, 9:10a, 9:20a, 9:30a, 9:40a, 9:50a … +25 | $88 | [golfnow](https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search) |
@@ -82,11 +83,13 @@ _Updated Tue Nov 24, 10:50 AM Pacific. Prices are per player as each site shows 
 | Foster Golf Links (Airport) | 8:02a, 8:10a, 8:18a, 8:26a, 8:34a, 8:42a, 8:50a, 8:58a … +37 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search) |
 | Legion Memorial Golf Course | 11:45a, 11:52a, 12:07p, 12:15p, 12:22p, 12:30p, 12:37p, 12:45p … +10 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search) |
 | The Home Course | 12:06p, 12:15p, 12:24p, 12:33p, 12:42p, 12:51p, 1:00p, 1:09p … +5 | $39 | [foreup](https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes) |
+| Camas Prairie Golf Course | 8:00a, 8:15a, 8:30a, 8:45a, 9:00a, 9:15a, 9:30a, 9:45a … +17 | $41 | [golfnow](https://www.golfnow.com/tee-times/facility/9894-camas-prairie-golf-course/search) |
 | Discovery Bay Golf Club | 8:00a, 8:10a, 8:20a, 8:30a, 8:40a, 8:50a, 9:00a, 9:10a … +29 | $41 | [golfnow](https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search) |
-| Lynnwood Golf Course | 8:07a, 8:15a, 8:22a, 8:30a, 8:45a, 8:52a, 9:07a, 9:15a … +32 | $42 | [golfnow](https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search) |
+| Lynnwood Golf Course | 8:00a, 8:07a, 8:15a, 8:22a, 8:30a, 8:45a, 8:52a, 9:07a … +33 | $42 | [golfnow](https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search) |
 | Allenmore Golf Course | 8:24a, 8:51a, 9:00a, 9:09a, 9:18a, 9:27a, 9:36a, 9:45a … +15 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search) |
 | Gleneagle Golf Course | 8:30a, 10:00a, 10:50a | $50 | [golfnow](https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search) |
 | Druids Glen Golf Club | 8:20a, 8:30a, 8:40a, 8:50a, 9:00a, 9:10a, 9:20a, 9:30a … +27 | $68 | [golfnow](https://www.golfnow.com/tee-times/facility/1252-druids-glen-golf-club/search) |
+| Auburn Golf Course | 9:50a, 10:00a, 10:10a, 10:20a, 10:40a, 10:50a, 11:00a, 11:10a … +5 | $69 | [golfnow](https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search) |
 | Port Ludlow Golf Resort | 8:30a, 8:39a, 8:48a, 8:57a, 9:06a, 9:15a, 9:24a, 9:33a … +26 | $73 | [golfnow](https://www.golfnow.com/tee-times/facility/3441-port-ludlow-golf-resort/search) |
 | White Horse Golf Club | 8:03a, 8:12a, 8:21a, 8:30a, 8:39a, 8:48a, 8:57a, 9:06a … +32 | $73 | [golfnow](https://www.golfnow.com/tee-times/facility/4753-white-horse-golf-club/search) |
 | High Cedars Golf Club | 9:50a, 10:00a, 10:10a, 10:20a, 10:30a, 10:40a, 10:50a, 11:00a … +18 | $88 | [golfnow](https://www.golfnow.com/tee-times/facility/598-high-cedars-golf-club/search) |
@@ -101,10 +104,10 @@ _Updated Tue Nov 24, 10:50 AM Pacific. Prices are per player as each site shows 
 | Cedarcrest Golf Course | 8:07a, 8:15a, 8:22a, 8:30a, 8:37a, 8:45a, 9:00a, 9:07a … +36 | $34 | [golfnow](https://www.golfnow.com/tee-times/facility/3329-cedarcrest-golf-course/search) |
 | Walter E. Hall Golf Course | 8:30a, 8:37a, 8:45a, 8:52a, 9:00a, 9:07a, 9:15a, 9:22a … +37 | $35 | [golfnow](https://www.golfnow.com/tee-times/facility/17870-walter-e-hall-golf-course/search) |
 | Foster Golf Links (Airport) | 9:06a, 9:14a, 9:22a, 9:30a, 9:38a, 9:46a, 9:54a, 10:02a … +29 | $36 | [golfnow](https://www.golfnow.com/tee-times/facility/2525-foster-golf-links-airport/search) |
-| Legion Memorial Golf Course | 9:37a, 9:45a, 11:52a, 12:07p, 12:15p, 12:22p, 12:30p, 12:37p … +11 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search) |
-| The Home Course | 11:57a, 12:06p, 12:15p, 12:24p, 12:33p, 12:42p, 12:51p, 1:00p … +6 | $39 | [foreup](https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes) |
+| Legion Memorial Golf Course | 11:52a, 12:07p, 12:15p, 12:22p, 12:30p, 12:37p, 12:45p, 12:52p … +9 | $37 | [golfnow](https://www.golfnow.com/tee-times/facility/17868-legion-memorial-golf-course/search) |
+| The Home Course | 11:57a, 12:15p, 12:24p, 12:33p, 12:42p, 12:51p, 1:00p, 1:09p … +5 | $39 | [foreup](https://foreupsoftware.com/index.php/booking/21784/8863#/teetimes) |
 | Discovery Bay Golf Club | 8:40a, 8:50a, 9:00a, 9:10a, 9:20a, 9:30a, 9:40a, 9:50a … +25 | $41 | [golfnow](https://www.golfnow.com/tee-times/facility/1203-discovery-bay-golf-club/search) |
-| Lynnwood Golf Course | 8:07a, 8:15a, 8:22a, 8:30a, 8:37a, 8:45a, 8:52a, 9:07a … +35 | $42 | [golfnow](https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search) |
+| Lynnwood Golf Course | 8:15a, 8:22a, 8:30a, 8:37a, 8:45a, 8:52a, 9:07a, 9:15a … +34 | $42 | [golfnow](https://www.golfnow.com/tee-times/facility/17869-lynnwood-golf-course/search) |
 | Allenmore Golf Course | 8:06a, 8:15a, 8:24a, 8:33a, 8:42a, 8:51a, 9:00a, 9:09a … +19 | $46 | [golfnow](https://www.golfnow.com/tee-times/facility/7063-allenmore-golf-course/search) |
 | Auburn Golf Course | 8:00a | $48 | [golfnow](https://www.golfnow.com/tee-times/facility/1636-auburn-golf-course/search) |
 | Gleneagle Golf Course | 8:30a, 10:00a, 10:50a | $50 | [golfnow](https://www.golfnow.com/tee-times/facility/503-gleneagle-golf-course/search) |
